@@ -1,0 +1,25 @@
+<!doctype html>
+<html ng-app="oi" ng-strict-di>
+  <head>
+    <meta charset="utf-8">
+    <title ng-bind="oiTitle">OpenInfRA</title>
+    <base href="<%= BASE_HREF %>/">
+
+    <link rel="stylesheet" href="/APP/assets/fonts/fonts.css">
+    <link rel="stylesheet" href="/APP/app.css">
+
+    <script src="/APP/assets.js"></script>
+    <script src="/APP/app.js"></script>
+  </head>
+
+  <body>
+    <div class="oi-ui-progress-bar" ng-class="{ 'oi-ui-progress-active' : oi.progress.active, 'oi-ui-progress-loading' : oi.progress.loading }"><div></div></div>
+
+    <div id="oi-app-silk" class="ng-cloak" ng-show="oi.modal || oi.busy"></div>
+    <div class="ng-cloak oi-waiting" ng-show="oi.waiting && !oi.authenticating"><div><div class="oi-waiting-message">{{ oi.waiting }}</div></div></div>
+    <div id="oi-app-modals" class="ng-cloak" ng-show="oi.modal"></div>
+
+    <div oi-backend-pane="oiApp.backend">connecting to server ...</div>
+    <div class="ng-cloak oiAppViewsMain" ui-view></div>
+  </body>
+</html>

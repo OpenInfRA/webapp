@@ -1,0 +1,24 @@
+{
+  "es3"		: true,
+  "undef"       : true,
+  "unused"	: "vars",
+  "bitwise"     : true,
+  "curly"       : true,
+  "eqeqeq"      : true,
+  "immed"       : true,
+  "latedef"     : true,
+  "newcap"      : false,
+  "nonew"       : true,
+  "quotmark"    : "single",
+  "strict"      : true,
+  "trailing"    : false,
+  "maxcomplexity" : 20,
+
+  "globals" : {
+    "angular" : false,
+    "JSON"    : false, 
+    "OpenLayers" : false
+  },
+
+  "browser" : true
+}

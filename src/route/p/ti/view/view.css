@@ -1,0 +1,12 @@
+div.oi-topinst-rel {
+  position: relative;
+}
+
+div.oi-topinst-rel-all {
+  text-align: right;
+}
+
+div.oi-topinst-rel-all a {
+  border: 1px solid #000;
+  padding: 0.25em 1em;
+}

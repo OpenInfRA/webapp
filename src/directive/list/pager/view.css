@@ -1,0 +1,10 @@
+div.oi-list-pager {
+  margin: 1rem -1rem;
+
+  padding: 0.5em 1em;
+  text-align: center;
+}
+
+div.oi-list-pager button[disabled] {
+  opacity: 0.5;
+}

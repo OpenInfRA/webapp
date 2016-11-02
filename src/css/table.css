@@ -1,0 +1,20 @@
+table {
+  width: 100%;
+}
+
+thead {
+  margin-top: 0.75em;
+}
+
+th {
+  font-family: "Open Sans Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+  font-weight: bold;
+
+  text-align: left;
+}
+
+tr > th[role=rowheader] {
+  width: 20%;
+  font-weight: normal;
+}
+

@@ -1,0 +1,46 @@
+<div class="oi-ui-pane oi-mdc-700">
+  <div class="oi-ui-pane-context" ng-if="parentInstance">
+    <h4 ng-if="$state.is('project.topinst.view') && parentRelation && parentRelation.label">
+      <a ui-sref="project.topinst.topchar({ topinstUUID : parentInstance.uuid, topcharUUID : topcharUUID })" oi-localize="parentRelation.label.name"></a>
+    </h4>
+    <h3 title="{{topcharUUID}}">
+      <a ui-sref="project.topinst.topchar({ topinstUUID : parentInstance.uuid, topcharUUID : topcharUUID })" oi-localize="topcharNames"></a>
+    </h3>
+  </div>
+
+  <div class="oi-ui-pane-context" ng-if="!parentInstance">
+    <h3 title="{{topcharUUID}}">
+      <a ui-sref="project.topchar({ topcharUUID : topcharUUID })" oi-localize="topcharNames"></a>
+    </h3>
+  </div>
+
+
+  <div class="oi-ui-pane-content" ng-if="topinstLabels.length && !$state.is('project.topinst.view')">
+    <h3><a ui-sref="project.topinst.view({ topinstUUID : topinstUUID })">
+      <span class="oi-labels" ng-repeat="label in topinstLabels" oi-localize="label"></span>
+    </a></h3>
+  </div>
+
+  <div class="oi-ui-pane-content oi-topinst-parents" ng-if="canParents">
+    <ul class="oi-topinst-parents" ng-if="parents.length && $state.is('project.topinst.view')">
+    <li ng-repeat="parent in parents">
+      <h4 ng-if="parent.topinstLabels.length">
+        <a ng-if=" parent.parentRelation" ui-sref="project.topinst.topchar({ topinstUUID : parent.parUUID, topcharUUID : parent.topcharUUID })" oi-localize="parent.topcharNames"></a>
+        <a ng-if="!parent.parentRelation" ui-sref="project.topchar({ topcharUUID : parent.topcharUUID })" oi-localize="parent.topcharNames"></a>
+      </h4>
+      <h3><a title="{{parent.topic}}" ui-sref="project.topinst.view({ topinstUUID : parent.uuid })">
+        <span ng-if=" parent.topinstLabels.length" class="oi-labels" ng-repeat="label in parent.topinstLabels" oi-localize="label"></span>
+        <span ng-if="!parent.topinstLabels.length" class="oi-labels" oi-localize="parent.topcharNames"></span>
+      </h3></a>
+    </li>
+    </ul>
+  </div>
+
+  <div class="oi-ui-pane-object oi-mdc-300" ng-if="topinstLabels.length && $state.is('project.topinst.view')">
+    <h1 title="{{projectUUID}}">
+      <span class="oi-labels" ng-repeat="label in topinstLabels" oi-localize="label"></span>
+    </h1>
+  </div>
+</div>
+
+<ui-view></ui-view>

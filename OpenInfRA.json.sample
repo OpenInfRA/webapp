@@ -1,0 +1,12 @@
+{
+  "dest" : "local-path-to-deploy",
+
+  "app" : {
+    "url" : "relative-url-of-app",
+
+    "backend" : {
+      "url"      : "url-to-backend",
+      "appIdent" : "app-ident-on-backend"
+    }
+  }
+}

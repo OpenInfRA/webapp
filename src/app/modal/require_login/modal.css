@@ -1,0 +1,16 @@
+div.oi-app-modal span.oi-bubble {
+  cursor: pointer;
+  display: inline-block;
+
+  padding: 0.15em 1em;
+  border-radius: 1em;
+
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+
+  color: #fff;
+  text-shadow: 0 0 1px rgba(0,0,0,0.5);
+
+  background: rgb(201,222,150);
+  background: linear-gradient(to right, rgba(201,222,150,1) 0%,rgba(138,182,107,1) 44%,rgba(57,130,53,1) 100%);
+}

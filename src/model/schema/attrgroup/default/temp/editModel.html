@@ -1,0 +1,24 @@
+<div class="oi-form-group">
+  
+  <div class="oi-form-attribute">
+    <label for="topic_name">Name</label>
+    <div class="oi-form-value">
+      <oi-input-localized strings="$temp.data.attributeTypeGroup.name" locales="$temp.locales"></oi-input-localized>
+    </div>
+  </div>
+  
+  <div class="oi-form-attribute">
+    <label for="topic_name">Beschreibung</label>
+    <div class="oi-form-value">
+      <oi-textarea-localized strings="$temp.data.attributeTypeGroup.description" locales="$temp.locales"></oi-textarea-localized>
+    </div>
+  </div>
+  
+  <div class="oi-form-attribute">
+    <label for="topic_name">eingeklappt</label>
+    <div class="oi-form-value">
+      <input type="checkbox" ng-model="$temp.data.configuration.model.closed"/>
+    </div>
+  </div>
+  
+</div>

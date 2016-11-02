@@ -1,0 +1,30 @@
+<div class="oi-ui-pane oi-mdc-900">
+  <div class="oi-ui-pane-object oi-mdc-700">
+<!--
+    <div class="oi-ui-pane-object-actions">
+      <button ng-click="edit()"><ng-md-icon icon="edit"></ng-md-icon></button>
+      <button ng-click="edit()"><ng-md-icon icon="settings"></ng-md-icon></button>
+    </div>
+-->
+
+    <h1 oi-localize="names"></h1>
+  </div>
+</div>
+
+<div class="oi-ui-page">
+  <div class="oi-ui-page-content">
+    <p class="oi-project-home-descr" oi-localize="descrs"></p>
+  </div>
+</div>
+
+<div class="oi-ui-page">
+  <div class="oi-ui-page-content">
+    <ul class="oi-topchars">
+      <li ng-repeat="tc in topchars" ui-sref-active="hilight">
+        <a ui-sref="^.topchar({ topcharUUID : tc.uuid })" oi-localize="tc.topic.name"></a> 
+        <span class="count">{{tc.topicInstancesCount}}</span> 
+      </li>
+    </ul>
+  </div>
+</div>
+

@@ -1,0 +1,51 @@
+<div class="oi-ui-page">
+
+<div class="oi-form oi-mdc-50 oi-project-config-topchar-sortAttr">
+  <div class="oi-form-head oi-mdc-200">
+    <h3>Attribute ordnen</h3>
+  </div>
+
+  <div class="oi-form-group oi-topchar-attrgroup-sort">
+
+  <ul class="oi-attrgroups"
+      dnd-list="data.attributeGroups"
+      dnd-allowed-types="['groupType']">
+
+    <li class="oi-attrgroup" ng-class="{
+        'oi-deleted' : aG.configuration.model.deleted, 
+        'oi-hidden'  : aG.configuration.model.hidden
+      }"
+        ng-repeat="aG in data.attributeGroups"
+        dnd-type="'groupType'"
+        dnd-draggable="aG"
+        dnd-moved="data.attributeGroups.splice($index, 1)">
+      <span class="oi-mdc-100 oi-attr-group" oi-localize="aG.attributeTypeGroup.name"></span>
+
+      <ul class="oi-attributes"
+          dnd-list="aG.attributes"
+          dnd-allowed-types="['attributeType']">
+
+        <li class="oi-attribute" ng-class="{
+            'oi-deleted' : at.configuration.model.deleted, 
+            'oi-hidden'  : at.configuration.model.hidden
+          }"
+            ng-repeat="at in aG.attributes" 
+            dnd-type="'attributeType'"
+            dnd-draggable="at"
+            dnd-moved="aG.attributes.splice($index, 1)"
+            dnd-effect-allowed="move">
+           <span  oi-localize="at.attributeType.name"></span>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
+  </div>
+
+  <div class="oi-form-buttons oi-mdc-200">
+    <button type="submit" class="oi-mdc-a200" ng-click="abort()">abbrechen</button>
+    <button type="submit" class="oi-mdc-a200" ng-click="submit()">speichern</button>
+  </div>
+</div>
+
+</div>

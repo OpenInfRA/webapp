@@ -1,0 +1,7 @@
+<h4 oi-localize="$data.data.attributeTypeGroup.name"></h4>
+
+<ul>
+  <li ng-repeat="at in $data.data.attributes | filter : { configuration : { hidden : '!' } }">
+    <div oi-schema-attribute-data="at"></div>
+  </li>
+<ul>

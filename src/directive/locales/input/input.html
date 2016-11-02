@@ -1,0 +1,4 @@
+<div class="oi-localized" ng-repeat="loc in locales.locales" ng-if="!locales.locale || (loc.code === locales.locale)">
+  <span ng-if="!locales.locale">{{ loc.label }}</span>
+  <input type="text" ng-model="strings[loc.code]" ng-change="stringChanged(loc.code)"></input>
+</div>

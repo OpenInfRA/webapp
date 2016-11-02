@@ -1,0 +1,8 @@
+<table ng-if="!$data.configuration.hidden" class="oi-topinst-attrgroup" ng-class="{ opened : open }" ng-controller="oiModelSchemaAttrValueGroupDefaultCtrl">
+  <thead class="oi-mdc-50" ng-click="open = !open">
+    <tr><th colspan="2" oi-localize="$data.data.attributeGroup.attributeTypeGroup.name"></th></tr>
+  </thead>
+  <tbody>
+    <tr oi-schema-attr-value-data="av" ng-repeat="av in $data.data.attributeValues | filter : filterAV"></tr>
+  </tbody>
+</table>

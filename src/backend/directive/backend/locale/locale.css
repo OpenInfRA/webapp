@@ -1,0 +1,15 @@
+div.oi-backend-locale {
+  float: right;
+  margin-left: 1em;
+  padding-left: 1em;
+
+  border-left: 1px solid #9e9e9e;
+}
+
+div.oi-backend-locale select {
+  appearance: none;
+  border: none;
+
+  color: #424242;
+  background: #9e9e9e;
+}

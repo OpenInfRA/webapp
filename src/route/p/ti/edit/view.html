@@ -1,0 +1,35 @@
+
+<div class="oi-ui-page">
+<div class="oi-form oi-mdc-50">
+ 
+  <div class="oi-form-silk" ng-show="busy"></div>
+
+  <div class="oi-form-head oi-mdc-200">
+    <div class="oi-form-head-locale"><oi-set-locale locales="locales" all="true"></oi-set-locale></div>
+    <h3>bearbeiten</h3>
+  </div>
+
+  <div class="oi-form-group" ng-repeat="avg in temp.data.attributeValueGroups | filter:filterAVG">
+    <div class="oi-form-attribute head">
+      <div style="font-weight: bold;" oi-localize="avg.data.attributeGroup.attributeTypeGroup.name"></div>
+    </div>
+
+    <div class="oi-form-attribute" ng-class="{ 'oi-dirty' : av.$dirty }" ng-repeat="av in avg.data.attributeValues | filter:filterAV">
+      <div class="oi-label-localized">
+        <div oi-localize="av.data.attribute.attributeType.name"></div>
+      </div>
+      <div class="oi-form-value">
+        <div oi-schema-attr-value-temp="av"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="oi-progress" ng-show="busy"></div> <!-- ui prototype -->
+
+  <div class="oi-form-buttons oi-mdc-200">
+    <button type="submit" class="oi-mdc-a200" ng-click="abort()">abbrechen</button>
+<!--    <button type="submit" class="oi-mdc-a200" ng-click="submit()">speichern</button> -->
+  </div>
+</div>
+
+</div>

@@ -1,0 +1,4 @@
+needed   = Anmeldung notwendig
+username = Login
+password = Passwort
+submit   = anmelden

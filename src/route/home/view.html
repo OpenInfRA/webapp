@@ -1,0 +1,16 @@
+<div class="oi-ui-pane oi-mdc-grey oi-mdc-900">
+  <div class="oi-ui-pane-content"> 
+    <h1 translate=".projects"></h1>
+  </div>
+</div>
+
+<div class="oi-ui-page">
+
+  <div class="oi-mdc-indigo oi-ui-page-card oi-mdc-700" ng-repeat="project in projects | orderBy : 'name'">
+    <h2 class="oi-mdc-900">
+      <a ui-sref="project.home({projectUUID : project.uuid})" oi-localize="project.names"></a>
+    </h2>
+    <p oi-localize="project.descriptions"></p>
+  </div>
+
+</div>

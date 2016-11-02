@@ -1,0 +1,2 @@
+logout = abmelden
+login  = anmelden

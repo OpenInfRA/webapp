@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/openlayers/2.13.1/theme/default/style.css"/>
+    <style type="text/css">
+    html {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+
+    .row {
+      margin: auto;
+      height: 100%;
+      width: 100%;
+    }
+
+    #gxc-container {
+      position: relative;
+      height: 100%;
+      width: 100%;
+      margin: auto;
+    }
+
+    #gxc-container:-webkit-full-screen {
+      width: 100%;
+      height: 100%;
+    }
+
+    #gxc-container:-moz-full-screen {
+      width: 100%;
+      height: 100%;
+    }
+    </style>
+    <title>GXCFull</title>
+</head>
+<body>
+  <div class="row">
+    <div id="gxc-container"></div>
+  </div>
+    <!-- GeoServer print information -->
+    <!-- <script src="http://localhost:8080/geoserver/pdf/info.json?var=printCapabilities"></script> -->
+    <!-- Application configuration file -->
+    <script src="<%= CORE_HREF %>/gxc/resources/config.js"></script> 
+    <script src="//cdnjs.cloudflare.com/ajax/libs/q.js/1.2.0/q.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2014-11-29/FileSaver.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/proj4js/1.1.0/proj4js-combined.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/openlayers/2.13.1/OpenLayers.debug.js"></script>
+    <link rel="stylesheet" href="/gxc/resources/GXCFull-all.css"/>
+    <script type="text/javascript" src="/gxc/app.js"></script>
+
+<script>
+    var config = GXC_ENV,    	
+    	params = Ext.urlDecode(location.search, true),    	
+    	layers = [], 
+    	p = params.p, 
+    	tcs, ti;
+    
+ 	// set proxy host
+    config.proxy.host = "<%= CORE_HREF %>/gxc/resources/proxy.jsp?";
+    
+    // map tc param to array
+    if (params.tc) {
+    	if (Ext.isArray(params.tc)) {
+    		tcs = params.tc;
+    	} else {
+    		tcs = [params.tc];
+    	}
+    }
+        
+ 	// Each topic  charactersitic mapped to wms layer of baalbek project.
+ 	// The namespace "baalbek:" is derieved from the geoserver workspace
+ 	// the layers reside in.
+   	Ext.Array.each(tcs, function(tc, index) {
+   		var layerConfig = {
+   			type: 'WMS',
+   			version: '1.1.1',
+   			url: config.geoserver.host + '/wms?',
+   			layer: 'baalbek:geom_' + tc
+   		};
+   		
+   		// if topic instance id is given, first layer of
+   		// tcs array will have a preselected feature on map init
+   		if (index === 0 && params.ti) {
+   			Ext.apply(layerConfig, {
+   				select: {
+   					featureId: params.ti
+   				}
+   			});
+   		}
+   		
+   		layers.push(layerConfig);
+   	});
+    
+    // unshift layers into config array
+    config.layers.unshift.apply(config.layers, layers);
+    </script>	
+</body>
+</html>

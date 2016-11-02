@@ -1,0 +1,14 @@
+<div class="oi-mdc-100 oi-list-pager">
+  <div style="float:left;">
+    <button class="oi-mdc-a100" ng-click="toFirst()" ng-disabled="!canFirst">Anfang</button>
+    <button class="oi-mdc-a100" ng-click="toPrior()" ng-disabled="!canPrior">zurueck</button>
+  </div>
+
+  <div style="float: right">
+    <button class="oi-mdc-a100" ng-click="toNext()" ng-disabled="!canNext">weiter</button>
+    <button class="oi-mdc-a100" ng-click="toLast()" ng-disabled="!canLast">Ende</button>
+  </div>
+
+  <span>{{ from }} - {{ to }} ( {{ count }} )</span> 
+
+</div>

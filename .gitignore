@@ -1,0 +1,14 @@
+.*
+
+!/.gitignore
+!/.jshintrc
+
+*.swp
+*.orig
+
+build/
+dist/
+html/
+node_modules/
+
+OpenInfRA.json

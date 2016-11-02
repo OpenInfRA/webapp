@@ -1,0 +1,10 @@
+<dl>
+  <dt>Beschreibung</dt>
+  <dd oi-localize="$temp.data.attributeType.description"></dd>
+</dl>
+
+<dl ng-if="$temp.definition.hasUnit">
+  <dt>Einheit</dt>
+  <dd ng-if="$temp.data.attributeType.unit">{{ $temp.data.attributeType.unit.name }}</dd>
+  <dd ng-if="!$temp.data.attributeType.unit">ohne</dd>
+</dl>

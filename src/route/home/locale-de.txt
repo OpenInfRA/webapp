@@ -1,0 +1,2 @@
+title = Startseite
+projects = Projekte

@@ -1,0 +1,5 @@
+<div class="oi-backend-locale" ng-controller="oiBackendPaneLocaleCtrl">
+  <select ng-model="currentLocale" class="form-control"
+          ng-options="locale for locale in currentLocales"
+          ng-change="changeLanguage(currentLocale)"></select>
+</div>

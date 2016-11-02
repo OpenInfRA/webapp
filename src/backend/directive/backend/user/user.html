@@ -1,0 +1,5 @@
+<div class="oi-backend-user" ng-controller="oiBackendPaneUserCtrl">
+  {{ username }} ({{ userlogin }}) 
+  <button ng-show="guest"  type="button" class="btn btn-default" ng-click="login()" translate=".login"></button>
+  <button ng-show="!guest" type="button" class="btn btn-default" ng-click="logout()" translate=".logout"></button>
+</div>

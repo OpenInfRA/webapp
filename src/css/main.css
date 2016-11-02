@@ -1,0 +1,153 @@
+/* bootstrap href-fix */
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+
+html { overflow-y: scroll; }
+
+#oi-app-silk {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+
+  background-color: #8AB;
+  opacity: .5;
+  filter: alpha(opacity=50);
+  z-index: 8999;
+}
+
+div.oi-waiting {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  background: rgba(255, 255, 255, 0.5);
+  z-index: 10000;
+}
+
+div.oi-waiting > div {
+  width: 20em;
+  margin: 0 auto;
+}
+
+div.oi-waiting > div > div {
+  margin-top: 30vh;
+  padding: 2em 5em;
+
+
+  font-weight: bold;
+  color: #fff;
+  background: #a73a73;
+ 
+  text-align: center;
+  border-radius: 1ex;
+
+  box-shadow: 0 1ex 1em rgba(0,0,0,0.5);
+}
+
+div.oiAppLogo {
+  padding: 1ex 1em;
+  border-bottom: 1px solid #666;
+  background: #ccc;
+}
+
+div.oiAppLogo img {
+  width: 4rem; height: 4rem;
+}
+
+span.logo_name {
+  font-size: 24px;
+}
+
+span.logo_version {
+
+}
+
+div.oiAppViewsMain {
+}
+
+div.oiWaiting {
+  position: relative;
+  width: 100%; height: 100%;
+}
+
+div.oiWaiting > img {
+  position: absolute;
+  margin: auto;
+  top: 0; left: 0;
+  bottom: 0; right: 0;
+}
+
+span.oi-labels:before {
+  content: ' - ';
+}
+
+span.oi-labels:first-child:before {
+  content: '';
+}
+
+span.oi-tag {
+  border-radius: 1em;
+  padding: 0 1em;
+
+  font-size: 0.875em;
+
+  color: #fff;
+  background: #999;
+}
+
+span.oi-tag-okay {
+  background: #3C3;
+}
+
+span.oi-tag-error {
+  background: #C33;
+}
+
+span.oi-tag-info {
+  color: #000;
+  background: #FF3;
+}
+
+div.oi-localized input    { width : 100%; }
+div.oi-localized textarea { width : 100%; }
+
+div.oi-clear { clear: both; }
+
+dd { margin-left :1em; }
+
+div.oi-button-group {
+  position: relative;
+}
+
+ul.oi-button-more {
+  position: absolute;
+  right: 0;
+ 
+  margin-top: 1ex;
+  border: 1px solid #333;
+  border-radius: 1ex;
+  padding: 1ex;
+
+  background-color: #fff;
+  list-style: none;
+
+  z-index: 1000;
+}
+
+ul.oi-button-more li {
+  cursor: pointer;
+  padding: 0 1ex;
+
+  min-width: 10em;
+  text-align: left;
+}
+
+ul.oi-button-more li:hover {
+  background: #eee;
+}
+
+ul.oi-button-more li.oi-divider {
+  height: 1px;
+  margin: 0.5em 0;
+  padding: 0;
+  background-color: #ddd;
+}

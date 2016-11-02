@@ -1,0 +1,15 @@
+<div class="oi-form">
+  <div class="oi-form-head">
+    <div class="oi-form-head-locale"><oi-set-locale locales="$modalArgs.locales"></oi-set-locale></div>
+    Attribut bearbeiten
+  </div>
+
+  <div oi-schema-attribute-temp="$modalArgs.temp" oi-view="editModel"></div>
+  <div oi-schema-attribute-temp="$modalArgs.temp" oi-view="editDataType"></div>
+  <div oi-schema-attribute-temp="$modalArgs.temp" oi-view="editType"></div>
+
+  <div class="oi-form-buttons">
+    <button type="submit" class="btn btn-default" ng-click="$modal.abort()">abbrechen</button>
+    <button type="submit" class="btn btn-default" ng-click="$modal.fulfill()">&uuml;bernehmen</button>
+  </div>
+</div>

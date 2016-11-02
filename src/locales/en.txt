@@ -1,0 +1,4 @@
+initalizing = intializing app
+
+app.views.login.needed = login needed
+

@@ -1,0 +1,105 @@
+div.oi-form.oi-project-config-topchar-editAttr {
+  background-color: #fff;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-head {
+  text-align: right;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-group {
+  padding: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: none;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute {
+  padding: 0.75em 1em;
+  margin-bottom: 0;
+  border-bottom: 1px solid #fff;
+  background-color: #eee;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute.oi-visible {
+  box-shadow: -1ex 0 yellow inset;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute.oi-editable {
+  box-shadow: -1ex 0 green inset;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute.oi-hidden {
+  box-shadow: -1ex 0 red inset;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute.oi-deleted {
+  box-shadow: -1ex 0 violet inset;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-group.oi-hidden {
+  box-shadow: 1ex 0 red;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-group.oi-deleted {
+  box-shadow: 1ex 0 violet;
+}
+
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute.head {
+  background-color: #ddd;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute label, 
+div.oi-project-config-topchar-editAttr div.oi-form-attribute oi-label-localized,
+div.oi-project-config-topchar-editAttr div.oi-form-attribute .oi-label-localized {
+  left: 1em; top: 0.5em;
+}
+
+div.oi-project-config-topchar-editAttr-actions {
+  display: table-cell;
+  vertical-align: top;
+  text-align: right;
+
+  width: 20%;
+}
+
+div.oi-project-config-topchar-editAttr dl {
+  margin: 0;
+}
+
+div.oi-description {
+  margin-bottom: 1ex;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute.head {
+  background-color: #ddd;
+}
+
+div.oi-project-config-topchar-editAttr div.oi-form-attribute label, 
+div.oi-project-config-topchar-editAttr div.oi-form-attribute oi-label-localized,
+div.oi-project-config-topchar-editAttr div.oi-form-attribute .oi-label-localized {
+  left: 1em; top: 0.5em;
+}
+
+div.oi-project-config-topchar-editAttr-actions {
+  display: table-cell;
+  vertical-align: top;
+  text-align: right;
+
+  width: 35%;
+}
+
+div.oi-project-config-topchar-editAttr dl {
+  margin: 0;
+}
+
+div.oi-description {
+  margin-bottom: 1ex;
+}
+
+#oi-progress {
+  height: 0.5ex;
+  background-color: red;
+  width: 0;
+  transition: width 50ms;
+}

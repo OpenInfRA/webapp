@@ -1,0 +1,80 @@
+div.oi-topchar-attrgroup-sort {
+  padding: 1em;
+}
+
+div.oi-topchar-attrgroup-sort ul {
+  position: relative;
+  list-style: none;
+
+  padding: 1ex 0;
+}
+
+div.oi-topchar-attrgroup-sort li {
+  position: relative;
+
+  cursor: move;
+  cursor: grab;
+  cursor: --webkit-grab;
+  cursor: -moz-grab;
+}
+
+div.oi-topchar-attrgroup-sort li.dndDraggingSource {
+  display: none;
+}
+
+div.oi-topchar-attrgroup-sort li.dndPlaceholder {
+  background-color: #ddd;
+
+  border: 1px solid #ccc;
+  border-top: 1px solid #bbb;
+  border-bottom: 1px solid #fff;
+
+  min-height: 2em;
+}
+
+div.oi-topchar-attrgroup-sort li > span {
+  border-radius: 0.1em;
+
+  display: block;
+  width: 100%;
+
+  padding: 0.25em 0.5em;
+}
+
+
+/* -------------------------------------------------------------------- */
+
+div.oi-topchar-attrgroup-sort ul.oi-attrgroups > li {
+  margin-bottom: 1em;
+}
+
+div.oi-topchar-attrgroup-sort ul.oi-attrgroups {
+  padding-bottom: 1em;
+  margin-bottom: -1em;
+}
+
+div.oi-topchar-attrgroup-sort ul.oi-attributes > li {
+  margin-top: 0.25em; 
+}
+
+div.oi-topchar-attrgroup-sort li.oi-attrgroup > span {
+  background: #ccc;
+  text-shadow: 0 1px #eee;
+}
+
+div.oi-topchar-attrgroup-sort li.oi-attribute > span {
+  background: #fff;
+}
+
+/* -------------------------------------------------------------------- */
+
+div.oi-topchar-attrgroup-sort li.oi-hidden > span {
+  border-left: 5px solid red;
+}
+
+div.oi-topchar-attrgroup-sort li.oi-deleted > span {
+  border-left: 5px solid violet;
+}
+
+
+

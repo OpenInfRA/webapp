@@ -1,0 +1,28 @@
+
+table.oi-topinst-attrgroup {
+  margin-top: 1rem;
+  border-collapse: collapse;
+}
+
+table.oi-topinst-attrgroup th, table.oi-topinst-attrgroup td {
+  border-bottom: 1px solid #ddd;
+}
+
+table.oi-topinst-attrgroup tr:last-child > th, table.oi-topinst-attrgroup tr:last-child > td {
+  border-bottom: none;
+}
+
+table.oi-topinst-attrgroup thead th {
+  padding: 0.25em 1em;
+}
+
+table.oi-topinst-attrgroup th.key {
+  padding: 0.5em 1em;
+  text-align: right;
+  vertical-align: top;
+}
+
+table.oi-topinst-attrgroup td.value {
+  padding: 0.5em 1em;
+  font-size: 14px;
+}

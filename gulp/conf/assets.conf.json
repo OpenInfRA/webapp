@@ -1,0 +1,25 @@
+{
+  "npm" : {
+    "angular.min.js" 					: "angular/angular.min.js",
+    "angular-ui-router.min.js"				: "angular-ui-router/release/angular-ui-router.min.js",
+    "angular-translate.min.js"				: "angular-translate/dist/angular-translate.min.js",
+    "angular-translate-loader-static-files.min.js"	: "angular-translate/dist/angular-translate-loader-static-files/angular-translate-loader-static-files.min.js",
+    "angular-drag-and-drop-lists.min.js" 		: "angular-drag-and-drop-lists/angular-drag-and-drop-lists.min.js",
+
+    "angular-material-icons.min.js"			: "angular-material-icons/angular-material-icons.min.js",
+
+    "fonts/roboto/fonts/"				: "roboto-font/fonts",
+    "fonts/roboto/css/"					: "roboto-font/css",
+
+    "fonts/opensans/fonts/"				: "npm-font-open-sans/fonts",
+    "fonts/opensans/open-sans.css"			: "npm-font-open-sans/open-sans.css",
+
+    "fonts/osc/fonts/"					: "npm-font-open-sans-condensed/fonts",
+    "fonts/osc/open-sans-condensed.css"			: "npm-font-open-sans-condensed/open-sans-condensed.css"
+  },
+
+  "url" : {
+    "late/OpenLayers.light.js" 		: "http://openlayers.org/api/2.13.1/OpenLayers.light.js",
+    "late/proj4js-combined.min.js" 	: "https://cdnjs.cloudflare.com/ajax/libs/proj4js/1.1.0/proj4js-combined.min.js"
+  }
+}

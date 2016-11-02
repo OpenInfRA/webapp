@@ -1,0 +1,10 @@
+<div class="oi-list-bar oi-ui-progress-bar oi-ui-progress-active oi-ui-progress-loading" ng-show="listLoading"><div></div></div>
+
+<ul>
+  <li ng-repeat="item in list" ng-if="item.fotoUUID">
+    <a ui-sref="project.topinst.view({ topinstUUID : item.uuid })">
+      <img src="/openinfra_core/rest/v1/files/{{ item.fotoUUID }}/thumbnail" width="60" height="60"></img>
+    </a>
+  </li>
+</ul>
+

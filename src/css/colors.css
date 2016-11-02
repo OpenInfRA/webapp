@@ -1,0 +1,762 @@
+.oi-mdc-green .oi-mdc-a400, .oi-mdc-green.oi-mdc-a400 { background-color: #00e676; color: #000; fill: #000; }
+.oi-mdc-green .oi-mdc-a400 a, .oi-mdc-green.oi-mdc-a400 a { color: #000; }
+.oi-mdc-green .oi-mdc-a400-color, .oi-mdc-green.oi-mdc-a400-color { color: #00e676; }
+.oi-mdc-green .oi-mdc-700, .oi-mdc-green.oi-mdc-700 { fill: #fff; background-color: #388e3c; color: #fff; }
+.oi-mdc-green .oi-mdc-700 a, .oi-mdc-green.oi-mdc-700 a { color: #fff; }
+.oi-mdc-green .oi-mdc-700-color, .oi-mdc-green.oi-mdc-700-color { color: #388e3c; }
+.oi-mdc-green .oi-mdc-200, .oi-mdc-green.oi-mdc-200 { background-color: #a5d6a7; color: #000; fill: #000; }
+.oi-mdc-green .oi-mdc-200 a, .oi-mdc-green.oi-mdc-200 a { color: #000; }
+.oi-mdc-green .oi-mdc-200-color, .oi-mdc-green.oi-mdc-200-color { color: #a5d6a7; }
+.oi-mdc-green .oi-mdc-100, .oi-mdc-green.oi-mdc-100 { fill: #000; color: #000; background-color: #c8e6c9; }
+.oi-mdc-green .oi-mdc-100 a, .oi-mdc-green.oi-mdc-100 a { color: #000; }
+.oi-mdc-green .oi-mdc-100-color, .oi-mdc-green.oi-mdc-100-color { color: #c8e6c9; }
+.oi-mdc-green .oi-mdc-a100, .oi-mdc-green.oi-mdc-a100 { background-color: #b9f6ca; color: #000; fill: #000; }
+.oi-mdc-green .oi-mdc-a100 a, .oi-mdc-green.oi-mdc-a100 a { color: #000; }
+.oi-mdc-green .oi-mdc-a100-color, .oi-mdc-green.oi-mdc-a100-color { color: #b9f6ca; }
+.oi-mdc-green .oi-mdc-400, .oi-mdc-green.oi-mdc-400 { color: #000; background-color: #66bb6a; fill: #000; }
+.oi-mdc-green .oi-mdc-400 a, .oi-mdc-green.oi-mdc-400 a { color: #000; }
+.oi-mdc-green .oi-mdc-400-color, .oi-mdc-green.oi-mdc-400-color { color: #66bb6a; }
+.oi-mdc-green .oi-mdc-600, .oi-mdc-green.oi-mdc-600 { color: #fff; background-color: #43a047; fill: #fff; }
+.oi-mdc-green .oi-mdc-600 a, .oi-mdc-green.oi-mdc-600 a { color: #fff; }
+.oi-mdc-green .oi-mdc-600-color, .oi-mdc-green.oi-mdc-600-color { color: #43a047; }
+.oi-mdc-green .oi-mdc-300, .oi-mdc-green.oi-mdc-300 { background-color: #81c784; color: #000; fill: #000; }
+.oi-mdc-green .oi-mdc-300 a, .oi-mdc-green.oi-mdc-300 a { color: #000; }
+.oi-mdc-green .oi-mdc-300-color, .oi-mdc-green.oi-mdc-300-color { color: #81c784; }
+.oi-mdc-green .oi-mdc-a700, .oi-mdc-green.oi-mdc-a700 { color: #000; background-color: #00c853; fill: #000; }
+.oi-mdc-green .oi-mdc-a700 a, .oi-mdc-green.oi-mdc-a700 a { color: #000; }
+.oi-mdc-green .oi-mdc-a700-color, .oi-mdc-green.oi-mdc-a700-color { color: #00c853; }
+.oi-mdc-green .oi-mdc-50, .oi-mdc-green.oi-mdc-50 { background-color: #e8f5e9; color: #000; fill: #000; }
+.oi-mdc-green .oi-mdc-50 a, .oi-mdc-green.oi-mdc-50 a { color: #000; }
+.oi-mdc-green .oi-mdc-50-color, .oi-mdc-green.oi-mdc-50-color { color: #e8f5e9; }
+.oi-mdc-green .oi-mdc-900, .oi-mdc-green.oi-mdc-900 { background-color: #1b5e20; color: #fff; fill: #fff; }
+.oi-mdc-green .oi-mdc-900 a, .oi-mdc-green.oi-mdc-900 a { color: #fff; }
+.oi-mdc-green .oi-mdc-900-color, .oi-mdc-green.oi-mdc-900-color { color: #1b5e20; }
+.oi-mdc-green .oi-mdc-800, .oi-mdc-green.oi-mdc-800 { fill: #fff; background-color: #2e7d32; color: #fff; }
+.oi-mdc-green .oi-mdc-800 a, .oi-mdc-green.oi-mdc-800 a { color: #fff; }
+.oi-mdc-green .oi-mdc-800-color, .oi-mdc-green.oi-mdc-800-color { color: #2e7d32; }
+.oi-mdc-green .oi-mdc-a200, .oi-mdc-green.oi-mdc-a200 { fill: #000; color: #000; background-color: #69f0ae; }
+.oi-mdc-green .oi-mdc-a200 a, .oi-mdc-green.oi-mdc-a200 a { color: #000; }
+.oi-mdc-green .oi-mdc-a200-color, .oi-mdc-green.oi-mdc-a200-color { color: #69f0ae; }
+.oi-mdc-green .oi-mdc-500, .oi-mdc-green.oi-mdc-500 { background-color: #4caf50; color: #000; fill: #000; }
+.oi-mdc-green .oi-mdc-500 a, .oi-mdc-green.oi-mdc-500 a { color: #000; }
+.oi-mdc-green .oi-mdc-500-color, .oi-mdc-green.oi-mdc-500-color { color: #4caf50; }
+.oi-mdc-grey .oi-mdc-500, .oi-mdc-grey.oi-mdc-500 { fill: #000; color: #000; background-color: #9e9e9e; }
+.oi-mdc-grey .oi-mdc-500 a, .oi-mdc-grey.oi-mdc-500 a { color: #000; }
+.oi-mdc-grey .oi-mdc-500-color, .oi-mdc-grey.oi-mdc-500-color { color: #9e9e9e; }
+.oi-mdc-grey .oi-mdc-800, .oi-mdc-grey.oi-mdc-800 { color: #fff; background-color: #424242; fill: #fff; }
+.oi-mdc-grey .oi-mdc-800 a, .oi-mdc-grey.oi-mdc-800 a { color: #fff; }
+.oi-mdc-grey .oi-mdc-800-color, .oi-mdc-grey.oi-mdc-800-color { color: #424242; }
+.oi-mdc-grey .oi-mdc-900, .oi-mdc-grey.oi-mdc-900 { fill: #fff; color: #fff; background-color: #212121; }
+.oi-mdc-grey .oi-mdc-900 a, .oi-mdc-grey.oi-mdc-900 a { color: #fff; }
+.oi-mdc-grey .oi-mdc-900-color, .oi-mdc-grey.oi-mdc-900-color { color: #212121; }
+.oi-mdc-grey .oi-mdc-50, .oi-mdc-grey.oi-mdc-50 { fill: #000; color: #000; background-color: #fafafa; }
+.oi-mdc-grey .oi-mdc-50 a, .oi-mdc-grey.oi-mdc-50 a { color: #000; }
+.oi-mdc-grey .oi-mdc-50-color, .oi-mdc-grey.oi-mdc-50-color { color: #fafafa; }
+.oi-mdc-grey .oi-mdc-300, .oi-mdc-grey.oi-mdc-300 { background-color: #e0e0e0; color: #000; fill: #000; }
+.oi-mdc-grey .oi-mdc-300 a, .oi-mdc-grey.oi-mdc-300 a { color: #000; }
+.oi-mdc-grey .oi-mdc-300-color, .oi-mdc-grey.oi-mdc-300-color { color: #e0e0e0; }
+.oi-mdc-grey .oi-mdc-600, .oi-mdc-grey.oi-mdc-600 { fill: #fff; color: #fff; background-color: #757575; }
+.oi-mdc-grey .oi-mdc-600 a, .oi-mdc-grey.oi-mdc-600 a { color: #fff; }
+.oi-mdc-grey .oi-mdc-600-color, .oi-mdc-grey.oi-mdc-600-color { color: #757575; }
+.oi-mdc-grey .oi-mdc-400, .oi-mdc-grey.oi-mdc-400 { background-color: #bdbdbd; color: #000; fill: #000; }
+.oi-mdc-grey .oi-mdc-400 a, .oi-mdc-grey.oi-mdc-400 a { color: #000; }
+.oi-mdc-grey .oi-mdc-400-color, .oi-mdc-grey.oi-mdc-400-color { color: #bdbdbd; }
+.oi-mdc-grey .oi-mdc-100, .oi-mdc-grey.oi-mdc-100 { background-color: #f5f5f5; color: #000; fill: #000; }
+.oi-mdc-grey .oi-mdc-100 a, .oi-mdc-grey.oi-mdc-100 a { color: #000; }
+.oi-mdc-grey .oi-mdc-100-color, .oi-mdc-grey.oi-mdc-100-color { color: #f5f5f5; }
+.oi-mdc-grey .oi-mdc-200, .oi-mdc-grey.oi-mdc-200 { fill: #000; background-color: #eeeeee; color: #000; }
+.oi-mdc-grey .oi-mdc-200 a, .oi-mdc-grey.oi-mdc-200 a { color: #000; }
+.oi-mdc-grey .oi-mdc-200-color, .oi-mdc-grey.oi-mdc-200-color { color: #eeeeee; }
+.oi-mdc-grey .oi-mdc-700, .oi-mdc-grey.oi-mdc-700 { background-color: #616161; color: #fff; fill: #fff; }
+.oi-mdc-grey .oi-mdc-700 a, .oi-mdc-grey.oi-mdc-700 a { color: #fff; }
+.oi-mdc-grey .oi-mdc-700-color, .oi-mdc-grey.oi-mdc-700-color { color: #616161; }
+.oi-mdc-yellow .oi-mdc-a400, .oi-mdc-yellow.oi-mdc-a400 { background-color: #ffea00; color: #000; fill: #000; }
+.oi-mdc-yellow .oi-mdc-a400 a, .oi-mdc-yellow.oi-mdc-a400 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-a400-color, .oi-mdc-yellow.oi-mdc-a400-color { color: #ffea00; }
+.oi-mdc-yellow .oi-mdc-200, .oi-mdc-yellow.oi-mdc-200 { color: #000; background-color: #fff59d; fill: #000; }
+.oi-mdc-yellow .oi-mdc-200 a, .oi-mdc-yellow.oi-mdc-200 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-200-color, .oi-mdc-yellow.oi-mdc-200-color { color: #fff59d; }
+.oi-mdc-yellow .oi-mdc-700, .oi-mdc-yellow.oi-mdc-700 { color: #000; background-color: #fbc02d; fill: #000; }
+.oi-mdc-yellow .oi-mdc-700 a, .oi-mdc-yellow.oi-mdc-700 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-700-color, .oi-mdc-yellow.oi-mdc-700-color { color: #fbc02d; }
+.oi-mdc-yellow .oi-mdc-100, .oi-mdc-yellow.oi-mdc-100 { fill: #000; color: #000; background-color: #fff9c4; }
+.oi-mdc-yellow .oi-mdc-100 a, .oi-mdc-yellow.oi-mdc-100 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-100-color, .oi-mdc-yellow.oi-mdc-100-color { color: #fff9c4; }
+.oi-mdc-yellow .oi-mdc-a100, .oi-mdc-yellow.oi-mdc-a100 { fill: #000; background-color: #ffff8d; color: #000; }
+.oi-mdc-yellow .oi-mdc-a100 a, .oi-mdc-yellow.oi-mdc-a100 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-a100-color, .oi-mdc-yellow.oi-mdc-a100-color { color: #ffff8d; }
+.oi-mdc-yellow .oi-mdc-400, .oi-mdc-yellow.oi-mdc-400 { background-color: #ffee58; color: #000; fill: #000; }
+.oi-mdc-yellow .oi-mdc-400 a, .oi-mdc-yellow.oi-mdc-400 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-400-color, .oi-mdc-yellow.oi-mdc-400-color { color: #ffee58; }
+.oi-mdc-yellow .oi-mdc-300, .oi-mdc-yellow.oi-mdc-300 { fill: #000; background-color: #fff176; color: #000; }
+.oi-mdc-yellow .oi-mdc-300 a, .oi-mdc-yellow.oi-mdc-300 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-300-color, .oi-mdc-yellow.oi-mdc-300-color { color: #fff176; }
+.oi-mdc-yellow .oi-mdc-600, .oi-mdc-yellow.oi-mdc-600 { fill: #000; background-color: #fdd835; color: #000; }
+.oi-mdc-yellow .oi-mdc-600 a, .oi-mdc-yellow.oi-mdc-600 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-600-color, .oi-mdc-yellow.oi-mdc-600-color { color: #fdd835; }
+.oi-mdc-yellow .oi-mdc-a700, .oi-mdc-yellow.oi-mdc-a700 { fill: #000; background-color: #ffd600; color: #000; }
+.oi-mdc-yellow .oi-mdc-a700 a, .oi-mdc-yellow.oi-mdc-a700 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-a700-color, .oi-mdc-yellow.oi-mdc-a700-color { color: #ffd600; }
+.oi-mdc-yellow .oi-mdc-50, .oi-mdc-yellow.oi-mdc-50 { fill: #000; background-color: #fffde7; color: #000; }
+.oi-mdc-yellow .oi-mdc-50 a, .oi-mdc-yellow.oi-mdc-50 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-50-color, .oi-mdc-yellow.oi-mdc-50-color { color: #fffde7; }
+.oi-mdc-yellow .oi-mdc-900, .oi-mdc-yellow.oi-mdc-900 { color: #000; background-color: #f57f17; fill: #000; }
+.oi-mdc-yellow .oi-mdc-900 a, .oi-mdc-yellow.oi-mdc-900 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-900-color, .oi-mdc-yellow.oi-mdc-900-color { color: #f57f17; }
+.oi-mdc-yellow .oi-mdc-500, .oi-mdc-yellow.oi-mdc-500 { fill: #000; color: #000; background-color: #ffeb3b; }
+.oi-mdc-yellow .oi-mdc-500 a, .oi-mdc-yellow.oi-mdc-500 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-500-color, .oi-mdc-yellow.oi-mdc-500-color { color: #ffeb3b; }
+.oi-mdc-yellow .oi-mdc-a200, .oi-mdc-yellow.oi-mdc-a200 { color: #000; background-color: #ffff00; fill: #000; }
+.oi-mdc-yellow .oi-mdc-a200 a, .oi-mdc-yellow.oi-mdc-a200 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-a200-color, .oi-mdc-yellow.oi-mdc-a200-color { color: #ffff00; }
+.oi-mdc-yellow .oi-mdc-800, .oi-mdc-yellow.oi-mdc-800 { background-color: #f9a825; color: #000; fill: #000; }
+.oi-mdc-yellow .oi-mdc-800 a, .oi-mdc-yellow.oi-mdc-800 a { color: #000; }
+.oi-mdc-yellow .oi-mdc-800-color, .oi-mdc-yellow.oi-mdc-800-color { color: #f9a825; }
+.oi-mdc-amber .oi-mdc-a100, .oi-mdc-amber.oi-mdc-a100 { background-color: #ffe57f; color: #000; fill: #000; }
+.oi-mdc-amber .oi-mdc-a100 a, .oi-mdc-amber.oi-mdc-a100 a { color: #000; }
+.oi-mdc-amber .oi-mdc-a100-color, .oi-mdc-amber.oi-mdc-a100-color { color: #ffe57f; }
+.oi-mdc-amber .oi-mdc-700, .oi-mdc-amber.oi-mdc-700 { fill: #000; background-color: #ffa000; color: #000; }
+.oi-mdc-amber .oi-mdc-700 a, .oi-mdc-amber.oi-mdc-700 a { color: #000; }
+.oi-mdc-amber .oi-mdc-700-color, .oi-mdc-amber.oi-mdc-700-color { color: #ffa000; }
+.oi-mdc-amber .oi-mdc-200, .oi-mdc-amber.oi-mdc-200 { fill: #000; color: #000; background-color: #ffe082; }
+.oi-mdc-amber .oi-mdc-200 a, .oi-mdc-amber.oi-mdc-200 a { color: #000; }
+.oi-mdc-amber .oi-mdc-200-color, .oi-mdc-amber.oi-mdc-200-color { color: #ffe082; }
+.oi-mdc-amber .oi-mdc-a400, .oi-mdc-amber.oi-mdc-a400 { fill: #000; color: #000; background-color: #ffc400; }
+.oi-mdc-amber .oi-mdc-a400 a, .oi-mdc-amber.oi-mdc-a400 a { color: #000; }
+.oi-mdc-amber .oi-mdc-a400-color, .oi-mdc-amber.oi-mdc-a400-color { color: #ffc400; }
+.oi-mdc-amber .oi-mdc-100, .oi-mdc-amber.oi-mdc-100 { fill: #000; color: #000; background-color: #ffecb3; }
+.oi-mdc-amber .oi-mdc-100 a, .oi-mdc-amber.oi-mdc-100 a { color: #000; }
+.oi-mdc-amber .oi-mdc-100-color, .oi-mdc-amber.oi-mdc-100-color { color: #ffecb3; }
+.oi-mdc-amber .oi-mdc-a700, .oi-mdc-amber.oi-mdc-a700 { fill: #000; background-color: #ffab00; color: #000; }
+.oi-mdc-amber .oi-mdc-a700 a, .oi-mdc-amber.oi-mdc-a700 a { color: #000; }
+.oi-mdc-amber .oi-mdc-a700-color, .oi-mdc-amber.oi-mdc-a700-color { color: #ffab00; }
+.oi-mdc-amber .oi-mdc-50, .oi-mdc-amber.oi-mdc-50 { background-color: #fff8e1; color: #000; fill: #000; }
+.oi-mdc-amber .oi-mdc-50 a, .oi-mdc-amber.oi-mdc-50 a { color: #000; }
+.oi-mdc-amber .oi-mdc-50-color, .oi-mdc-amber.oi-mdc-50-color { color: #fff8e1; }
+.oi-mdc-amber .oi-mdc-300, .oi-mdc-amber.oi-mdc-300 { background-color: #ffd54f; color: #000; fill: #000; }
+.oi-mdc-amber .oi-mdc-300 a, .oi-mdc-amber.oi-mdc-300 a { color: #000; }
+.oi-mdc-amber .oi-mdc-300-color, .oi-mdc-amber.oi-mdc-300-color { color: #ffd54f; }
+.oi-mdc-amber .oi-mdc-600, .oi-mdc-amber.oi-mdc-600 { color: #000; background-color: #ffb300; fill: #000; }
+.oi-mdc-amber .oi-mdc-600 a, .oi-mdc-amber.oi-mdc-600 a { color: #000; }
+.oi-mdc-amber .oi-mdc-600-color, .oi-mdc-amber.oi-mdc-600-color { color: #ffb300; }
+.oi-mdc-amber .oi-mdc-500, .oi-mdc-amber.oi-mdc-500 { color: #000; background-color: #ffc107; fill: #000; }
+.oi-mdc-amber .oi-mdc-500 a, .oi-mdc-amber.oi-mdc-500 a { color: #000; }
+.oi-mdc-amber .oi-mdc-500-color, .oi-mdc-amber.oi-mdc-500-color { color: #ffc107; }
+.oi-mdc-amber .oi-mdc-a200, .oi-mdc-amber.oi-mdc-a200 { fill: #000; color: #000; background-color: #ffd740; }
+.oi-mdc-amber .oi-mdc-a200 a, .oi-mdc-amber.oi-mdc-a200 a { color: #000; }
+.oi-mdc-amber .oi-mdc-a200-color, .oi-mdc-amber.oi-mdc-a200-color { color: #ffd740; }
+.oi-mdc-amber .oi-mdc-800, .oi-mdc-amber.oi-mdc-800 { fill: #000; background-color: #ff8f00; color: #000; }
+.oi-mdc-amber .oi-mdc-800 a, .oi-mdc-amber.oi-mdc-800 a { color: #000; }
+.oi-mdc-amber .oi-mdc-800-color, .oi-mdc-amber.oi-mdc-800-color { color: #ff8f00; }
+.oi-mdc-amber .oi-mdc-900, .oi-mdc-amber.oi-mdc-900 { background-color: #ff6f00; color: #000; fill: #000; }
+.oi-mdc-amber .oi-mdc-900 a, .oi-mdc-amber.oi-mdc-900 a { color: #000; }
+.oi-mdc-amber .oi-mdc-900-color, .oi-mdc-amber.oi-mdc-900-color { color: #ff6f00; }
+.oi-mdc-amber .oi-mdc-400, .oi-mdc-amber.oi-mdc-400 { color: #000; background-color: #ffca28; fill: #000; }
+.oi-mdc-amber .oi-mdc-400 a, .oi-mdc-amber.oi-mdc-400 a { color: #000; }
+.oi-mdc-amber .oi-mdc-400-color, .oi-mdc-amber.oi-mdc-400-color { color: #ffca28; }
+.oi-mdc-indigo .oi-mdc-a100, .oi-mdc-indigo.oi-mdc-a100 { fill: #000; background-color: #8c9eff; color: #000; }
+.oi-mdc-indigo .oi-mdc-a100 a, .oi-mdc-indigo.oi-mdc-a100 a { color: #000; }
+.oi-mdc-indigo .oi-mdc-a100-color, .oi-mdc-indigo.oi-mdc-a100-color { color: #8c9eff; }
+.oi-mdc-indigo .oi-mdc-100, .oi-mdc-indigo.oi-mdc-100 { background-color: #c5cae9; color: #000; fill: #000; }
+.oi-mdc-indigo .oi-mdc-100 a, .oi-mdc-indigo.oi-mdc-100 a { color: #000; }
+.oi-mdc-indigo .oi-mdc-100-color, .oi-mdc-indigo.oi-mdc-100-color { color: #c5cae9; }
+.oi-mdc-indigo .oi-mdc-a400, .oi-mdc-indigo.oi-mdc-a400 { fill: #fff; background-color: #3d5afe; color: #fff; }
+.oi-mdc-indigo .oi-mdc-a400 a, .oi-mdc-indigo.oi-mdc-a400 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-a400-color, .oi-mdc-indigo.oi-mdc-a400-color { color: #3d5afe; }
+.oi-mdc-indigo .oi-mdc-200, .oi-mdc-indigo.oi-mdc-200 { fill: #000; background-color: #9fa8da; color: #000; }
+.oi-mdc-indigo .oi-mdc-200 a, .oi-mdc-indigo.oi-mdc-200 a { color: #000; }
+.oi-mdc-indigo .oi-mdc-200-color, .oi-mdc-indigo.oi-mdc-200-color { color: #9fa8da; }
+.oi-mdc-indigo .oi-mdc-700, .oi-mdc-indigo.oi-mdc-700 { fill: #fff; background-color: #303f9f; color: #fff; }
+.oi-mdc-indigo .oi-mdc-700 a, .oi-mdc-indigo.oi-mdc-700 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-700-color, .oi-mdc-indigo.oi-mdc-700-color { color: #303f9f; }
+.oi-mdc-indigo .oi-mdc-900, .oi-mdc-indigo.oi-mdc-900 { color: #fff; background-color: #1a237e; fill: #fff; }
+.oi-mdc-indigo .oi-mdc-900 a, .oi-mdc-indigo.oi-mdc-900 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-900-color, .oi-mdc-indigo.oi-mdc-900-color { color: #1a237e; }
+.oi-mdc-indigo .oi-mdc-a200, .oi-mdc-indigo.oi-mdc-a200 { fill: #fff; color: #fff; background-color: #536dfe; }
+.oi-mdc-indigo .oi-mdc-a200 a, .oi-mdc-indigo.oi-mdc-a200 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-a200-color, .oi-mdc-indigo.oi-mdc-a200-color { color: #536dfe; }
+.oi-mdc-indigo .oi-mdc-500, .oi-mdc-indigo.oi-mdc-500 { background-color: #3f51b5; color: #fff; fill: #fff; }
+.oi-mdc-indigo .oi-mdc-500 a, .oi-mdc-indigo.oi-mdc-500 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-500-color, .oi-mdc-indigo.oi-mdc-500-color { color: #3f51b5; }
+.oi-mdc-indigo .oi-mdc-800, .oi-mdc-indigo.oi-mdc-800 { fill: #fff; background-color: #283593; color: #fff; }
+.oi-mdc-indigo .oi-mdc-800 a, .oi-mdc-indigo.oi-mdc-800 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-800-color, .oi-mdc-indigo.oi-mdc-800-color { color: #283593; }
+.oi-mdc-indigo .oi-mdc-300, .oi-mdc-indigo.oi-mdc-300 { fill: #fff; color: #fff; background-color: #7986cb; }
+.oi-mdc-indigo .oi-mdc-300 a, .oi-mdc-indigo.oi-mdc-300 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-300-color, .oi-mdc-indigo.oi-mdc-300-color { color: #7986cb; }
+.oi-mdc-indigo .oi-mdc-600, .oi-mdc-indigo.oi-mdc-600 { fill: #fff; color: #fff; background-color: #3949ab; }
+.oi-mdc-indigo .oi-mdc-600 a, .oi-mdc-indigo.oi-mdc-600 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-600-color, .oi-mdc-indigo.oi-mdc-600-color { color: #3949ab; }
+.oi-mdc-indigo .oi-mdc-a700, .oi-mdc-indigo.oi-mdc-a700 { color: #fff; background-color: #304ffe; fill: #fff; }
+.oi-mdc-indigo .oi-mdc-a700 a, .oi-mdc-indigo.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-a700-color, .oi-mdc-indigo.oi-mdc-a700-color { color: #304ffe; }
+.oi-mdc-indigo .oi-mdc-50, .oi-mdc-indigo.oi-mdc-50 { fill: #000; background-color: #e8eaf6; color: #000; }
+.oi-mdc-indigo .oi-mdc-50 a, .oi-mdc-indigo.oi-mdc-50 a { color: #000; }
+.oi-mdc-indigo .oi-mdc-50-color, .oi-mdc-indigo.oi-mdc-50-color { color: #e8eaf6; }
+.oi-mdc-indigo .oi-mdc-400, .oi-mdc-indigo.oi-mdc-400 { color: #fff; background-color: #5c6bc0; fill: #fff; }
+.oi-mdc-indigo .oi-mdc-400 a, .oi-mdc-indigo.oi-mdc-400 a { color: #fff; }
+.oi-mdc-indigo .oi-mdc-400-color, .oi-mdc-indigo.oi-mdc-400-color { color: #5c6bc0; }
+.oi-mdc-cyan .oi-mdc-a100, .oi-mdc-cyan.oi-mdc-a100 { fill: #000; color: #000; background-color: #84ffff; }
+.oi-mdc-cyan .oi-mdc-a100 a, .oi-mdc-cyan.oi-mdc-a100 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-a100-color, .oi-mdc-cyan.oi-mdc-a100-color { color: #84ffff; }
+.oi-mdc-cyan .oi-mdc-100, .oi-mdc-cyan.oi-mdc-100 { fill: #000; background-color: #b2ebf2; color: #000; }
+.oi-mdc-cyan .oi-mdc-100 a, .oi-mdc-cyan.oi-mdc-100 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-100-color, .oi-mdc-cyan.oi-mdc-100-color { color: #b2ebf2; }
+.oi-mdc-cyan .oi-mdc-200, .oi-mdc-cyan.oi-mdc-200 { background-color: #80deea; color: #000; fill: #000; }
+.oi-mdc-cyan .oi-mdc-200 a, .oi-mdc-cyan.oi-mdc-200 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-200-color, .oi-mdc-cyan.oi-mdc-200-color { color: #80deea; }
+.oi-mdc-cyan .oi-mdc-700, .oi-mdc-cyan.oi-mdc-700 { fill: #fff; color: #fff; background-color: #0097a7; }
+.oi-mdc-cyan .oi-mdc-700 a, .oi-mdc-cyan.oi-mdc-700 a { color: #fff; }
+.oi-mdc-cyan .oi-mdc-700-color, .oi-mdc-cyan.oi-mdc-700-color { color: #0097a7; }
+.oi-mdc-cyan .oi-mdc-a400, .oi-mdc-cyan.oi-mdc-a400 { fill: #000; background-color: #00e5ff; color: #000; }
+.oi-mdc-cyan .oi-mdc-a400 a, .oi-mdc-cyan.oi-mdc-a400 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-a400-color, .oi-mdc-cyan.oi-mdc-a400-color { color: #00e5ff; }
+.oi-mdc-cyan .oi-mdc-500, .oi-mdc-cyan.oi-mdc-500 { background-color: #00bcd4; color: #000; fill: #000; }
+.oi-mdc-cyan .oi-mdc-500 a, .oi-mdc-cyan.oi-mdc-500 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-500-color, .oi-mdc-cyan.oi-mdc-500-color { color: #00bcd4; }
+.oi-mdc-cyan .oi-mdc-a200, .oi-mdc-cyan.oi-mdc-a200 { fill: #000; color: #000; background-color: #18ffff; }
+.oi-mdc-cyan .oi-mdc-a200 a, .oi-mdc-cyan.oi-mdc-a200 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-a200-color, .oi-mdc-cyan.oi-mdc-a200-color { color: #18ffff; }
+.oi-mdc-cyan .oi-mdc-800, .oi-mdc-cyan.oi-mdc-800 { fill: #fff; background-color: #00838f; color: #fff; }
+.oi-mdc-cyan .oi-mdc-800 a, .oi-mdc-cyan.oi-mdc-800 a { color: #fff; }
+.oi-mdc-cyan .oi-mdc-800-color, .oi-mdc-cyan.oi-mdc-800-color { color: #00838f; }
+.oi-mdc-cyan .oi-mdc-900, .oi-mdc-cyan.oi-mdc-900 { background-color: #006064; color: #fff; fill: #fff; }
+.oi-mdc-cyan .oi-mdc-900 a, .oi-mdc-cyan.oi-mdc-900 a { color: #fff; }
+.oi-mdc-cyan .oi-mdc-900-color, .oi-mdc-cyan.oi-mdc-900-color { color: #006064; }
+.oi-mdc-cyan .oi-mdc-a700, .oi-mdc-cyan.oi-mdc-a700 { fill: #000; background-color: #00b8d4; color: #000; }
+.oi-mdc-cyan .oi-mdc-a700 a, .oi-mdc-cyan.oi-mdc-a700 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-a700-color, .oi-mdc-cyan.oi-mdc-a700-color { color: #00b8d4; }
+.oi-mdc-cyan .oi-mdc-50, .oi-mdc-cyan.oi-mdc-50 { fill: #000; background-color: #e0f7fa; color: #000; }
+.oi-mdc-cyan .oi-mdc-50 a, .oi-mdc-cyan.oi-mdc-50 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-50-color, .oi-mdc-cyan.oi-mdc-50-color { color: #e0f7fa; }
+.oi-mdc-cyan .oi-mdc-300, .oi-mdc-cyan.oi-mdc-300 { fill: #000; background-color: #4dd0e1; color: #000; }
+.oi-mdc-cyan .oi-mdc-300 a, .oi-mdc-cyan.oi-mdc-300 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-300-color, .oi-mdc-cyan.oi-mdc-300-color { color: #4dd0e1; }
+.oi-mdc-cyan .oi-mdc-600, .oi-mdc-cyan.oi-mdc-600 { background-color: #00acc1; color: #000; fill: #000; }
+.oi-mdc-cyan .oi-mdc-600 a, .oi-mdc-cyan.oi-mdc-600 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-600-color, .oi-mdc-cyan.oi-mdc-600-color { color: #00acc1; }
+.oi-mdc-cyan .oi-mdc-400, .oi-mdc-cyan.oi-mdc-400 { background-color: #26c6da; color: #000; fill: #000; }
+.oi-mdc-cyan .oi-mdc-400 a, .oi-mdc-cyan.oi-mdc-400 a { color: #000; }
+.oi-mdc-cyan .oi-mdc-400-color, .oi-mdc-cyan.oi-mdc-400-color { color: #26c6da; }
+.oi-mdc-deep-purple .oi-mdc-a100, .oi-mdc-deep-purple.oi-mdc-a100 { fill: #000; background-color: #b388ff; color: #000; }
+.oi-mdc-deep-purple .oi-mdc-a100 a, .oi-mdc-deep-purple.oi-mdc-a100 a { color: #000; }
+.oi-mdc-deep-purple .oi-mdc-a100-color, .oi-mdc-deep-purple.oi-mdc-a100-color { color: #b388ff; }
+.oi-mdc-deep-purple .oi-mdc-100, .oi-mdc-deep-purple.oi-mdc-100 { color: #000; background-color: #d1c4e9; fill: #000; }
+.oi-mdc-deep-purple .oi-mdc-100 a, .oi-mdc-deep-purple.oi-mdc-100 a { color: #000; }
+.oi-mdc-deep-purple .oi-mdc-100-color, .oi-mdc-deep-purple.oi-mdc-100-color { color: #d1c4e9; }
+.oi-mdc-deep-purple .oi-mdc-700, .oi-mdc-deep-purple.oi-mdc-700 { fill: #fff; background-color: #512da8; color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-700 a, .oi-mdc-deep-purple.oi-mdc-700 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-700-color, .oi-mdc-deep-purple.oi-mdc-700-color { color: #512da8; }
+.oi-mdc-deep-purple .oi-mdc-200, .oi-mdc-deep-purple.oi-mdc-200 { fill: #000; background-color: #b39ddb; color: #000; }
+.oi-mdc-deep-purple .oi-mdc-200 a, .oi-mdc-deep-purple.oi-mdc-200 a { color: #000; }
+.oi-mdc-deep-purple .oi-mdc-200-color, .oi-mdc-deep-purple.oi-mdc-200-color { color: #b39ddb; }
+.oi-mdc-deep-purple .oi-mdc-a400, .oi-mdc-deep-purple.oi-mdc-a400 { fill: #fff; background-color: #651fff; color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-a400 a, .oi-mdc-deep-purple.oi-mdc-a400 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-a400-color, .oi-mdc-deep-purple.oi-mdc-a400-color { color: #651fff; }
+.oi-mdc-deep-purple .oi-mdc-800, .oi-mdc-deep-purple.oi-mdc-800 { background-color: #4527a0; color: #fff; fill: #fff; }
+.oi-mdc-deep-purple .oi-mdc-800 a, .oi-mdc-deep-purple.oi-mdc-800 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-800-color, .oi-mdc-deep-purple.oi-mdc-800-color { color: #4527a0; }
+.oi-mdc-deep-purple .oi-mdc-a200, .oi-mdc-deep-purple.oi-mdc-a200 { color: #fff; background-color: #7c4dff; fill: #fff; }
+.oi-mdc-deep-purple .oi-mdc-a200 a, .oi-mdc-deep-purple.oi-mdc-a200 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-a200-color, .oi-mdc-deep-purple.oi-mdc-a200-color { color: #7c4dff; }
+.oi-mdc-deep-purple .oi-mdc-500, .oi-mdc-deep-purple.oi-mdc-500 { fill: #fff; color: #fff; background-color: #673ab7; }
+.oi-mdc-deep-purple .oi-mdc-500 a, .oi-mdc-deep-purple.oi-mdc-500 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-500-color, .oi-mdc-deep-purple.oi-mdc-500-color { color: #673ab7; }
+.oi-mdc-deep-purple .oi-mdc-900, .oi-mdc-deep-purple.oi-mdc-900 { fill: #fff; background-color: #311b92; color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-900 a, .oi-mdc-deep-purple.oi-mdc-900 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-900-color, .oi-mdc-deep-purple.oi-mdc-900-color { color: #311b92; }
+.oi-mdc-deep-purple .oi-mdc-a700, .oi-mdc-deep-purple.oi-mdc-a700 { fill: #fff; background-color: #6200ea; color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-a700 a, .oi-mdc-deep-purple.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-a700-color, .oi-mdc-deep-purple.oi-mdc-a700-color { color: #6200ea; }
+.oi-mdc-deep-purple .oi-mdc-50, .oi-mdc-deep-purple.oi-mdc-50 { fill: #000; color: #000; background-color: #ede7f6; }
+.oi-mdc-deep-purple .oi-mdc-50 a, .oi-mdc-deep-purple.oi-mdc-50 a { color: #000; }
+.oi-mdc-deep-purple .oi-mdc-50-color, .oi-mdc-deep-purple.oi-mdc-50-color { color: #ede7f6; }
+.oi-mdc-deep-purple .oi-mdc-300, .oi-mdc-deep-purple.oi-mdc-300 { fill: #fff; color: #fff; background-color: #9575cd; }
+.oi-mdc-deep-purple .oi-mdc-300 a, .oi-mdc-deep-purple.oi-mdc-300 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-300-color, .oi-mdc-deep-purple.oi-mdc-300-color { color: #9575cd; }
+.oi-mdc-deep-purple .oi-mdc-600, .oi-mdc-deep-purple.oi-mdc-600 { fill: #fff; background-color: #5e35b1; color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-600 a, .oi-mdc-deep-purple.oi-mdc-600 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-600-color, .oi-mdc-deep-purple.oi-mdc-600-color { color: #5e35b1; }
+.oi-mdc-deep-purple .oi-mdc-400, .oi-mdc-deep-purple.oi-mdc-400 { background-color: #7e57c2; color: #fff; fill: #fff; }
+.oi-mdc-deep-purple .oi-mdc-400 a, .oi-mdc-deep-purple.oi-mdc-400 a { color: #fff; }
+.oi-mdc-deep-purple .oi-mdc-400-color, .oi-mdc-deep-purple.oi-mdc-400-color { color: #7e57c2; }
+.oi-mdc-purple .oi-mdc-100, .oi-mdc-purple.oi-mdc-100 { fill: #000; color: #000; background-color: #e1bee7; }
+.oi-mdc-purple .oi-mdc-100 a, .oi-mdc-purple.oi-mdc-100 a { color: #000; }
+.oi-mdc-purple .oi-mdc-100-color, .oi-mdc-purple.oi-mdc-100-color { color: #e1bee7; }
+.oi-mdc-purple .oi-mdc-a400, .oi-mdc-purple.oi-mdc-a400 { color: #fff; background-color: #d500f9; fill: #fff; }
+.oi-mdc-purple .oi-mdc-a400 a, .oi-mdc-purple.oi-mdc-a400 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-a400-color, .oi-mdc-purple.oi-mdc-a400-color { color: #d500f9; }
+.oi-mdc-purple .oi-mdc-200, .oi-mdc-purple.oi-mdc-200 { color: #000; background-color: #ce93d8; fill: #000; }
+.oi-mdc-purple .oi-mdc-200 a, .oi-mdc-purple.oi-mdc-200 a { color: #000; }
+.oi-mdc-purple .oi-mdc-200-color, .oi-mdc-purple.oi-mdc-200-color { color: #ce93d8; }
+.oi-mdc-purple .oi-mdc-700, .oi-mdc-purple.oi-mdc-700 { background-color: #7b1fa2; color: #fff; fill: #fff; }
+.oi-mdc-purple .oi-mdc-700 a, .oi-mdc-purple.oi-mdc-700 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-700-color, .oi-mdc-purple.oi-mdc-700-color { color: #7b1fa2; }
+.oi-mdc-purple .oi-mdc-a100, .oi-mdc-purple.oi-mdc-a100 { background-color: #ea80fc; color: #000; fill: #000; }
+.oi-mdc-purple .oi-mdc-a100 a, .oi-mdc-purple.oi-mdc-a100 a { color: #000; }
+.oi-mdc-purple .oi-mdc-a100-color, .oi-mdc-purple.oi-mdc-a100-color { color: #ea80fc; }
+.oi-mdc-purple .oi-mdc-400, .oi-mdc-purple.oi-mdc-400 { background-color: #ab47bc; color: #fff; fill: #fff; }
+.oi-mdc-purple .oi-mdc-400 a, .oi-mdc-purple.oi-mdc-400 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-400-color, .oi-mdc-purple.oi-mdc-400-color { color: #ab47bc; }
+.oi-mdc-purple .oi-mdc-900, .oi-mdc-purple.oi-mdc-900 { fill: #fff; background-color: #4a148c; color: #fff; }
+.oi-mdc-purple .oi-mdc-900 a, .oi-mdc-purple.oi-mdc-900 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-900-color, .oi-mdc-purple.oi-mdc-900-color { color: #4a148c; }
+.oi-mdc-purple .oi-mdc-800, .oi-mdc-purple.oi-mdc-800 { fill: #fff; background-color: #6a1b9a; color: #fff; }
+.oi-mdc-purple .oi-mdc-800 a, .oi-mdc-purple.oi-mdc-800 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-800-color, .oi-mdc-purple.oi-mdc-800-color { color: #6a1b9a; }
+.oi-mdc-purple .oi-mdc-a200, .oi-mdc-purple.oi-mdc-a200 { fill: #fff; background-color: #e040fb; color: #fff; }
+.oi-mdc-purple .oi-mdc-a200 a, .oi-mdc-purple.oi-mdc-a200 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-a200-color, .oi-mdc-purple.oi-mdc-a200-color { color: #e040fb; }
+.oi-mdc-purple .oi-mdc-500, .oi-mdc-purple.oi-mdc-500 { fill: #fff; color: #fff; background-color: #9c27b0; }
+.oi-mdc-purple .oi-mdc-500 a, .oi-mdc-purple.oi-mdc-500 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-500-color, .oi-mdc-purple.oi-mdc-500-color { color: #9c27b0; }
+.oi-mdc-purple .oi-mdc-300, .oi-mdc-purple.oi-mdc-300 { fill: #fff; background-color: #ba68c8; color: #fff; }
+.oi-mdc-purple .oi-mdc-300 a, .oi-mdc-purple.oi-mdc-300 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-300-color, .oi-mdc-purple.oi-mdc-300-color { color: #ba68c8; }
+.oi-mdc-purple .oi-mdc-600, .oi-mdc-purple.oi-mdc-600 { fill: #fff; color: #fff; background-color: #8e24aa; }
+.oi-mdc-purple .oi-mdc-600 a, .oi-mdc-purple.oi-mdc-600 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-600-color, .oi-mdc-purple.oi-mdc-600-color { color: #8e24aa; }
+.oi-mdc-purple .oi-mdc-50, .oi-mdc-purple.oi-mdc-50 { fill: #000; background-color: #f3e5f5; color: #000; }
+.oi-mdc-purple .oi-mdc-50 a, .oi-mdc-purple.oi-mdc-50 a { color: #000; }
+.oi-mdc-purple .oi-mdc-50-color, .oi-mdc-purple.oi-mdc-50-color { color: #f3e5f5; }
+.oi-mdc-purple .oi-mdc-a700, .oi-mdc-purple.oi-mdc-a700 { color: #fff; background-color: #aa00ff; fill: #fff; }
+.oi-mdc-purple .oi-mdc-a700 a, .oi-mdc-purple.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-purple .oi-mdc-a700-color, .oi-mdc-purple.oi-mdc-a700-color { color: #aa00ff; }
+.oi-mdc-pink .oi-mdc-a100, .oi-mdc-pink.oi-mdc-a100 { fill: #000; color: #000; background-color: #ff80ab; }
+.oi-mdc-pink .oi-mdc-a100 a, .oi-mdc-pink.oi-mdc-a100 a { color: #000; }
+.oi-mdc-pink .oi-mdc-a100-color, .oi-mdc-pink.oi-mdc-a100-color { color: #ff80ab; }
+.oi-mdc-pink .oi-mdc-100, .oi-mdc-pink.oi-mdc-100 { fill: #000; background-color: #f8bbd0; color: #000; }
+.oi-mdc-pink .oi-mdc-100 a, .oi-mdc-pink.oi-mdc-100 a { color: #000; }
+.oi-mdc-pink .oi-mdc-100-color, .oi-mdc-pink.oi-mdc-100-color { color: #f8bbd0; }
+.oi-mdc-pink .oi-mdc-200, .oi-mdc-pink.oi-mdc-200 { color: #000; background-color: #f48fb1; fill: #000; }
+.oi-mdc-pink .oi-mdc-200 a, .oi-mdc-pink.oi-mdc-200 a { color: #000; }
+.oi-mdc-pink .oi-mdc-200-color, .oi-mdc-pink.oi-mdc-200-color { color: #f48fb1; }
+.oi-mdc-pink .oi-mdc-700, .oi-mdc-pink.oi-mdc-700 { background-color: #c2185b; color: #fff; fill: #fff; }
+.oi-mdc-pink .oi-mdc-700 a, .oi-mdc-pink.oi-mdc-700 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-700-color, .oi-mdc-pink.oi-mdc-700-color { color: #c2185b; }
+.oi-mdc-pink .oi-mdc-a400, .oi-mdc-pink.oi-mdc-a400 { fill: #fff; color: #fff; background-color: #f50057; }
+.oi-mdc-pink .oi-mdc-a400 a, .oi-mdc-pink.oi-mdc-a400 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-a400-color, .oi-mdc-pink.oi-mdc-a400-color { color: #f50057; }
+.oi-mdc-pink .oi-mdc-a200, .oi-mdc-pink.oi-mdc-a200 { background-color: #ff4081; color: #fff; fill: #fff; }
+.oi-mdc-pink .oi-mdc-a200 a, .oi-mdc-pink.oi-mdc-a200 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-a200-color, .oi-mdc-pink.oi-mdc-a200-color { color: #ff4081; }
+.oi-mdc-pink .oi-mdc-800, .oi-mdc-pink.oi-mdc-800 { fill: #fff; background-color: #ad1457; color: #fff; }
+.oi-mdc-pink .oi-mdc-800 a, .oi-mdc-pink.oi-mdc-800 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-800-color, .oi-mdc-pink.oi-mdc-800-color { color: #ad1457; }
+.oi-mdc-pink .oi-mdc-500, .oi-mdc-pink.oi-mdc-500 { fill: #fff; color: #fff; background-color: #e91e63; }
+.oi-mdc-pink .oi-mdc-500 a, .oi-mdc-pink.oi-mdc-500 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-500-color, .oi-mdc-pink.oi-mdc-500-color { color: #e91e63; }
+.oi-mdc-pink .oi-mdc-900, .oi-mdc-pink.oi-mdc-900 { color: #fff; background-color: #880e4f; fill: #fff; }
+.oi-mdc-pink .oi-mdc-900 a, .oi-mdc-pink.oi-mdc-900 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-900-color, .oi-mdc-pink.oi-mdc-900-color { color: #880e4f; }
+.oi-mdc-pink .oi-mdc-a700, .oi-mdc-pink.oi-mdc-a700 { color: #fff; background-color: #c51162; fill: #fff; }
+.oi-mdc-pink .oi-mdc-a700 a, .oi-mdc-pink.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-a700-color, .oi-mdc-pink.oi-mdc-a700-color { color: #c51162; }
+.oi-mdc-pink .oi-mdc-50, .oi-mdc-pink.oi-mdc-50 { background-color: #fce4ec; color: #000; fill: #000; }
+.oi-mdc-pink .oi-mdc-50 a, .oi-mdc-pink.oi-mdc-50 a { color: #000; }
+.oi-mdc-pink .oi-mdc-50-color, .oi-mdc-pink.oi-mdc-50-color { color: #fce4ec; }
+.oi-mdc-pink .oi-mdc-300, .oi-mdc-pink.oi-mdc-300 { color: #fff; background-color: #f06292; fill: #fff; }
+.oi-mdc-pink .oi-mdc-300 a, .oi-mdc-pink.oi-mdc-300 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-300-color, .oi-mdc-pink.oi-mdc-300-color { color: #f06292; }
+.oi-mdc-pink .oi-mdc-600, .oi-mdc-pink.oi-mdc-600 { fill: #fff; background-color: #d81b60; color: #fff; }
+.oi-mdc-pink .oi-mdc-600 a, .oi-mdc-pink.oi-mdc-600 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-600-color, .oi-mdc-pink.oi-mdc-600-color { color: #d81b60; }
+.oi-mdc-pink .oi-mdc-400, .oi-mdc-pink.oi-mdc-400 { background-color: #ec407a; color: #fff; fill: #fff; }
+.oi-mdc-pink .oi-mdc-400 a, .oi-mdc-pink.oi-mdc-400 a { color: #fff; }
+.oi-mdc-pink .oi-mdc-400-color, .oi-mdc-pink.oi-mdc-400-color { color: #ec407a; }
+.oi-mdc-orange .oi-mdc-400, .oi-mdc-orange.oi-mdc-400 { fill: #000; background-color: #ffa726; color: #000; }
+.oi-mdc-orange .oi-mdc-400 a, .oi-mdc-orange.oi-mdc-400 a { color: #000; }
+.oi-mdc-orange .oi-mdc-400-color, .oi-mdc-orange.oi-mdc-400-color { color: #ffa726; }
+.oi-mdc-orange .oi-mdc-a200, .oi-mdc-orange.oi-mdc-a200 { fill: #000; color: #000; background-color: #ffab40; }
+.oi-mdc-orange .oi-mdc-a200 a, .oi-mdc-orange.oi-mdc-a200 a { color: #000; }
+.oi-mdc-orange .oi-mdc-a200-color, .oi-mdc-orange.oi-mdc-a200-color { color: #ffab40; }
+.oi-mdc-orange .oi-mdc-800, .oi-mdc-orange.oi-mdc-800 { fill: #fff; background-color: #ef6c00; color: #fff; }
+.oi-mdc-orange .oi-mdc-800 a, .oi-mdc-orange.oi-mdc-800 a { color: #fff; }
+.oi-mdc-orange .oi-mdc-800-color, .oi-mdc-orange.oi-mdc-800-color { color: #ef6c00; }
+.oi-mdc-orange .oi-mdc-500, .oi-mdc-orange.oi-mdc-500 { background-color: #ff9800; color: #000; fill: #000; }
+.oi-mdc-orange .oi-mdc-500 a, .oi-mdc-orange.oi-mdc-500 a { color: #000; }
+.oi-mdc-orange .oi-mdc-500-color, .oi-mdc-orange.oi-mdc-500-color { color: #ff9800; }
+.oi-mdc-orange .oi-mdc-900, .oi-mdc-orange.oi-mdc-900 { fill: #fff; color: #fff; background-color: #e65100; }
+.oi-mdc-orange .oi-mdc-900 a, .oi-mdc-orange.oi-mdc-900 a { color: #fff; }
+.oi-mdc-orange .oi-mdc-900-color, .oi-mdc-orange.oi-mdc-900-color { color: #e65100; }
+.oi-mdc-orange .oi-mdc-a700, .oi-mdc-orange.oi-mdc-a700 { fill: #000; background-color: #ff6d00; color: #000; }
+.oi-mdc-orange .oi-mdc-a700 a, .oi-mdc-orange.oi-mdc-a700 a { color: #000; }
+.oi-mdc-orange .oi-mdc-a700-color, .oi-mdc-orange.oi-mdc-a700-color { color: #ff6d00; }
+.oi-mdc-orange .oi-mdc-50, .oi-mdc-orange.oi-mdc-50 { color: #000; background-color: #fff3e0; fill: #000; }
+.oi-mdc-orange .oi-mdc-50 a, .oi-mdc-orange.oi-mdc-50 a { color: #000; }
+.oi-mdc-orange .oi-mdc-50-color, .oi-mdc-orange.oi-mdc-50-color { color: #fff3e0; }
+.oi-mdc-orange .oi-mdc-300, .oi-mdc-orange.oi-mdc-300 { fill: #000; color: #000; background-color: #ffb74d; }
+.oi-mdc-orange .oi-mdc-300 a, .oi-mdc-orange.oi-mdc-300 a { color: #000; }
+.oi-mdc-orange .oi-mdc-300-color, .oi-mdc-orange.oi-mdc-300-color { color: #ffb74d; }
+.oi-mdc-orange .oi-mdc-600, .oi-mdc-orange.oi-mdc-600 { fill: #000; background-color: #fb8c00; color: #000; }
+.oi-mdc-orange .oi-mdc-600 a, .oi-mdc-orange.oi-mdc-600 a { color: #000; }
+.oi-mdc-orange .oi-mdc-600-color, .oi-mdc-orange.oi-mdc-600-color { color: #fb8c00; }
+.oi-mdc-orange .oi-mdc-100, .oi-mdc-orange.oi-mdc-100 { color: #000; background-color: #ffe0b2; fill: #000; }
+.oi-mdc-orange .oi-mdc-100 a, .oi-mdc-orange.oi-mdc-100 a { color: #000; }
+.oi-mdc-orange .oi-mdc-100-color, .oi-mdc-orange.oi-mdc-100-color { color: #ffe0b2; }
+.oi-mdc-orange .oi-mdc-700, .oi-mdc-orange.oi-mdc-700 { background-color: #f57c00; color: #000; fill: #000; }
+.oi-mdc-orange .oi-mdc-700 a, .oi-mdc-orange.oi-mdc-700 a { color: #000; }
+.oi-mdc-orange .oi-mdc-700-color, .oi-mdc-orange.oi-mdc-700-color { color: #f57c00; }
+.oi-mdc-orange .oi-mdc-200, .oi-mdc-orange.oi-mdc-200 { fill: #000; background-color: #ffcc80; color: #000; }
+.oi-mdc-orange .oi-mdc-200 a, .oi-mdc-orange.oi-mdc-200 a { color: #000; }
+.oi-mdc-orange .oi-mdc-200-color, .oi-mdc-orange.oi-mdc-200-color { color: #ffcc80; }
+.oi-mdc-orange .oi-mdc-a400, .oi-mdc-orange.oi-mdc-a400 { fill: #000; color: #000; background-color: #ff9100; }
+.oi-mdc-orange .oi-mdc-a400 a, .oi-mdc-orange.oi-mdc-a400 a { color: #000; }
+.oi-mdc-orange .oi-mdc-a400-color, .oi-mdc-orange.oi-mdc-a400-color { color: #ff9100; }
+.oi-mdc-orange .oi-mdc-a100, .oi-mdc-orange.oi-mdc-a100 { color: #000; background-color: #ffd180; fill: #000; }
+.oi-mdc-orange .oi-mdc-a100 a, .oi-mdc-orange.oi-mdc-a100 a { color: #000; }
+.oi-mdc-orange .oi-mdc-a100-color, .oi-mdc-orange.oi-mdc-a100-color { color: #ffd180; }
+.oi-mdc-blue-grey .oi-mdc-400, .oi-mdc-blue-grey.oi-mdc-400 { fill: #fff; background-color: #78909c; color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-400 a, .oi-mdc-blue-grey.oi-mdc-400 a { color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-400-color, .oi-mdc-blue-grey.oi-mdc-400-color { color: #78909c; }
+.oi-mdc-blue-grey .oi-mdc-500, .oi-mdc-blue-grey.oi-mdc-500 { color: #fff; background-color: #607d8b; fill: #fff; }
+.oi-mdc-blue-grey .oi-mdc-500 a, .oi-mdc-blue-grey.oi-mdc-500 a { color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-500-color, .oi-mdc-blue-grey.oi-mdc-500-color { color: #607d8b; }
+.oi-mdc-blue-grey .oi-mdc-800, .oi-mdc-blue-grey.oi-mdc-800 { fill: #fff; color: #fff; background-color: #37474f; }
+.oi-mdc-blue-grey .oi-mdc-800 a, .oi-mdc-blue-grey.oi-mdc-800 a { color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-800-color, .oi-mdc-blue-grey.oi-mdc-800-color { color: #37474f; }
+.oi-mdc-blue-grey .oi-mdc-900, .oi-mdc-blue-grey.oi-mdc-900 { fill: #fff; background-color: #263238; color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-900 a, .oi-mdc-blue-grey.oi-mdc-900 a { color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-900-color, .oi-mdc-blue-grey.oi-mdc-900-color { color: #263238; }
+.oi-mdc-blue-grey .oi-mdc-50, .oi-mdc-blue-grey.oi-mdc-50 { color: #000; background-color: #eceff1; fill: #000; }
+.oi-mdc-blue-grey .oi-mdc-50 a, .oi-mdc-blue-grey.oi-mdc-50 a { color: #000; }
+.oi-mdc-blue-grey .oi-mdc-50-color, .oi-mdc-blue-grey.oi-mdc-50-color { color: #eceff1; }
+.oi-mdc-blue-grey .oi-mdc-300, .oi-mdc-blue-grey.oi-mdc-300 { fill: #000; color: #000; background-color: #90a4ae; }
+.oi-mdc-blue-grey .oi-mdc-300 a, .oi-mdc-blue-grey.oi-mdc-300 a { color: #000; }
+.oi-mdc-blue-grey .oi-mdc-300-color, .oi-mdc-blue-grey.oi-mdc-300-color { color: #90a4ae; }
+.oi-mdc-blue-grey .oi-mdc-600, .oi-mdc-blue-grey.oi-mdc-600 { background-color: #546e7a; color: #fff; fill: #fff; }
+.oi-mdc-blue-grey .oi-mdc-600 a, .oi-mdc-blue-grey.oi-mdc-600 a { color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-600-color, .oi-mdc-blue-grey.oi-mdc-600-color { color: #546e7a; }
+.oi-mdc-blue-grey .oi-mdc-100, .oi-mdc-blue-grey.oi-mdc-100 { fill: #000; background-color: #cfd8dc; color: #000; }
+.oi-mdc-blue-grey .oi-mdc-100 a, .oi-mdc-blue-grey.oi-mdc-100 a { color: #000; }
+.oi-mdc-blue-grey .oi-mdc-100-color, .oi-mdc-blue-grey.oi-mdc-100-color { color: #cfd8dc; }
+.oi-mdc-blue-grey .oi-mdc-200, .oi-mdc-blue-grey.oi-mdc-200 { fill: #000; color: #000; background-color: #b0bec5; }
+.oi-mdc-blue-grey .oi-mdc-200 a, .oi-mdc-blue-grey.oi-mdc-200 a { color: #000; }
+.oi-mdc-blue-grey .oi-mdc-200-color, .oi-mdc-blue-grey.oi-mdc-200-color { color: #b0bec5; }
+.oi-mdc-blue-grey .oi-mdc-700, .oi-mdc-blue-grey.oi-mdc-700 { fill: #fff; background-color: #455a64; color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-700 a, .oi-mdc-blue-grey.oi-mdc-700 a { color: #fff; }
+.oi-mdc-blue-grey .oi-mdc-700-color, .oi-mdc-blue-grey.oi-mdc-700-color { color: #455a64; }
+.oi-mdc-teal .oi-mdc-a100, .oi-mdc-teal.oi-mdc-a100 { color: #000; background-color: #a7ffeb; fill: #000; }
+.oi-mdc-teal .oi-mdc-a100 a, .oi-mdc-teal.oi-mdc-a100 a { color: #000; }
+.oi-mdc-teal .oi-mdc-a100-color, .oi-mdc-teal.oi-mdc-a100-color { color: #a7ffeb; }
+.oi-mdc-teal .oi-mdc-a400, .oi-mdc-teal.oi-mdc-a400 { color: #000; background-color: #1de9b6; fill: #000; }
+.oi-mdc-teal .oi-mdc-a400 a, .oi-mdc-teal.oi-mdc-a400 a { color: #000; }
+.oi-mdc-teal .oi-mdc-a400-color, .oi-mdc-teal.oi-mdc-a400-color { color: #1de9b6; }
+.oi-mdc-teal .oi-mdc-200, .oi-mdc-teal.oi-mdc-200 { background-color: #80cbc4; color: #000; fill: #000; }
+.oi-mdc-teal .oi-mdc-200 a, .oi-mdc-teal.oi-mdc-200 a { color: #000; }
+.oi-mdc-teal .oi-mdc-200-color, .oi-mdc-teal.oi-mdc-200-color { color: #80cbc4; }
+.oi-mdc-teal .oi-mdc-700, .oi-mdc-teal.oi-mdc-700 { fill: #fff; background-color: #00796b; color: #fff; }
+.oi-mdc-teal .oi-mdc-700 a, .oi-mdc-teal.oi-mdc-700 a { color: #fff; }
+.oi-mdc-teal .oi-mdc-700-color, .oi-mdc-teal.oi-mdc-700-color { color: #00796b; }
+.oi-mdc-teal .oi-mdc-100, .oi-mdc-teal.oi-mdc-100 { fill: #000; background-color: #b2dfdb; color: #000; }
+.oi-mdc-teal .oi-mdc-100 a, .oi-mdc-teal.oi-mdc-100 a { color: #000; }
+.oi-mdc-teal .oi-mdc-100-color, .oi-mdc-teal.oi-mdc-100-color { color: #b2dfdb; }
+.oi-mdc-teal .oi-mdc-300, .oi-mdc-teal.oi-mdc-300 { background-color: #4db6ac; color: #000; fill: #000; }
+.oi-mdc-teal .oi-mdc-300 a, .oi-mdc-teal.oi-mdc-300 a { color: #000; }
+.oi-mdc-teal .oi-mdc-300-color, .oi-mdc-teal.oi-mdc-300-color { color: #4db6ac; }
+.oi-mdc-teal .oi-mdc-600, .oi-mdc-teal.oi-mdc-600 { fill: #fff; color: #fff; background-color: #00897b; }
+.oi-mdc-teal .oi-mdc-600 a, .oi-mdc-teal.oi-mdc-600 a { color: #fff; }
+.oi-mdc-teal .oi-mdc-600-color, .oi-mdc-teal.oi-mdc-600-color { color: #00897b; }
+.oi-mdc-teal .oi-mdc-50, .oi-mdc-teal.oi-mdc-50 { fill: #000; background-color: #e0f2f1; color: #000; }
+.oi-mdc-teal .oi-mdc-50 a, .oi-mdc-teal.oi-mdc-50 a { color: #000; }
+.oi-mdc-teal .oi-mdc-50-color, .oi-mdc-teal.oi-mdc-50-color { color: #e0f2f1; }
+.oi-mdc-teal .oi-mdc-a700, .oi-mdc-teal.oi-mdc-a700 { background-color: #00bfa5; color: #000; fill: #000; }
+.oi-mdc-teal .oi-mdc-a700 a, .oi-mdc-teal.oi-mdc-a700 a { color: #000; }
+.oi-mdc-teal .oi-mdc-a700-color, .oi-mdc-teal.oi-mdc-a700-color { color: #00bfa5; }
+.oi-mdc-teal .oi-mdc-900, .oi-mdc-teal.oi-mdc-900 { background-color: #004d40; color: #fff; fill: #fff; }
+.oi-mdc-teal .oi-mdc-900 a, .oi-mdc-teal.oi-mdc-900 a { color: #fff; }
+.oi-mdc-teal .oi-mdc-900-color, .oi-mdc-teal.oi-mdc-900-color { color: #004d40; }
+.oi-mdc-teal .oi-mdc-800, .oi-mdc-teal.oi-mdc-800 { fill: #fff; background-color: #00695c; color: #fff; }
+.oi-mdc-teal .oi-mdc-800 a, .oi-mdc-teal.oi-mdc-800 a { color: #fff; }
+.oi-mdc-teal .oi-mdc-800-color, .oi-mdc-teal.oi-mdc-800-color { color: #00695c; }
+.oi-mdc-teal .oi-mdc-a200, .oi-mdc-teal.oi-mdc-a200 { fill: #000; background-color: #64ffda; color: #000; }
+.oi-mdc-teal .oi-mdc-a200 a, .oi-mdc-teal.oi-mdc-a200 a { color: #000; }
+.oi-mdc-teal .oi-mdc-a200-color, .oi-mdc-teal.oi-mdc-a200-color { color: #64ffda; }
+.oi-mdc-teal .oi-mdc-500, .oi-mdc-teal.oi-mdc-500 { fill: #fff; background-color: #009688; color: #fff; }
+.oi-mdc-teal .oi-mdc-500 a, .oi-mdc-teal.oi-mdc-500 a { color: #fff; }
+.oi-mdc-teal .oi-mdc-500-color, .oi-mdc-teal.oi-mdc-500-color { color: #009688; }
+.oi-mdc-teal .oi-mdc-400, .oi-mdc-teal.oi-mdc-400 { fill: #000; background-color: #26a69a; color: #000; }
+.oi-mdc-teal .oi-mdc-400 a, .oi-mdc-teal.oi-mdc-400 a { color: #000; }
+.oi-mdc-teal .oi-mdc-400-color, .oi-mdc-teal.oi-mdc-400-color { color: #26a69a; }
+.oi-mdc-red .oi-mdc-a100, .oi-mdc-red.oi-mdc-a100 { background-color: #ff8a80; color: #000; fill: #000; }
+.oi-mdc-red .oi-mdc-a100 a, .oi-mdc-red.oi-mdc-a100 a { color: #000; }
+.oi-mdc-red .oi-mdc-a100-color, .oi-mdc-red.oi-mdc-a100-color { color: #ff8a80; }
+.oi-mdc-red .oi-mdc-a400, .oi-mdc-red.oi-mdc-a400 { fill: #fff; color: #fff; background-color: #ff1744; }
+.oi-mdc-red .oi-mdc-a400 a, .oi-mdc-red.oi-mdc-a400 a { color: #fff; }
+.oi-mdc-red .oi-mdc-a400-color, .oi-mdc-red.oi-mdc-a400-color { color: #ff1744; }
+.oi-mdc-red .oi-mdc-700, .oi-mdc-red.oi-mdc-700 { color: #fff; background-color: #d32f2f; fill: #fff; }
+.oi-mdc-red .oi-mdc-700 a, .oi-mdc-red.oi-mdc-700 a { color: #fff; }
+.oi-mdc-red .oi-mdc-700-color, .oi-mdc-red.oi-mdc-700-color { color: #d32f2f; }
+.oi-mdc-red .oi-mdc-200, .oi-mdc-red.oi-mdc-200 { color: #000; background-color: #ef9a9a; fill: #000; }
+.oi-mdc-red .oi-mdc-200 a, .oi-mdc-red.oi-mdc-200 a { color: #000; }
+.oi-mdc-red .oi-mdc-200-color, .oi-mdc-red.oi-mdc-200-color { color: #ef9a9a; }
+.oi-mdc-red .oi-mdc-100, .oi-mdc-red.oi-mdc-100 { color: #000; background-color: #ffcdd2; fill: #000; }
+.oi-mdc-red .oi-mdc-100 a, .oi-mdc-red.oi-mdc-100 a { color: #000; }
+.oi-mdc-red .oi-mdc-100-color, .oi-mdc-red.oi-mdc-100-color { color: #ffcdd2; }
+.oi-mdc-red .oi-mdc-300, .oi-mdc-red.oi-mdc-300 { fill: #000; background-color: #e57373; color: #000; }
+.oi-mdc-red .oi-mdc-300 a, .oi-mdc-red.oi-mdc-300 a { color: #000; }
+.oi-mdc-red .oi-mdc-300-color, .oi-mdc-red.oi-mdc-300-color { color: #e57373; }
+.oi-mdc-red .oi-mdc-600, .oi-mdc-red.oi-mdc-600 { fill: #fff; color: #fff; background-color: #e53935; }
+.oi-mdc-red .oi-mdc-600 a, .oi-mdc-red.oi-mdc-600 a { color: #fff; }
+.oi-mdc-red .oi-mdc-600-color, .oi-mdc-red.oi-mdc-600-color { color: #e53935; }
+.oi-mdc-red .oi-mdc-a700, .oi-mdc-red.oi-mdc-a700 { color: #fff; background-color: #d50000; fill: #fff; }
+.oi-mdc-red .oi-mdc-a700 a, .oi-mdc-red.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-red .oi-mdc-a700-color, .oi-mdc-red.oi-mdc-a700-color { color: #d50000; }
+.oi-mdc-red .oi-mdc-50, .oi-mdc-red.oi-mdc-50 { color: #000; background-color: #ffebee; fill: #000; }
+.oi-mdc-red .oi-mdc-50 a, .oi-mdc-red.oi-mdc-50 a { color: #000; }
+.oi-mdc-red .oi-mdc-50-color, .oi-mdc-red.oi-mdc-50-color { color: #ffebee; }
+.oi-mdc-red .oi-mdc-900, .oi-mdc-red.oi-mdc-900 { background-color: #b71c1c; color: #fff; fill: #fff; }
+.oi-mdc-red .oi-mdc-900 a, .oi-mdc-red.oi-mdc-900 a { color: #fff; }
+.oi-mdc-red .oi-mdc-900-color, .oi-mdc-red.oi-mdc-900-color { color: #b71c1c; }
+.oi-mdc-red .oi-mdc-500, .oi-mdc-red.oi-mdc-500 { fill: #fff; background-color: #f44336; color: #fff; }
+.oi-mdc-red .oi-mdc-500 a, .oi-mdc-red.oi-mdc-500 a { color: #fff; }
+.oi-mdc-red .oi-mdc-500-color, .oi-mdc-red.oi-mdc-500-color { color: #f44336; }
+.oi-mdc-red .oi-mdc-a200, .oi-mdc-red.oi-mdc-a200 { fill: #fff; background-color: #ff5252; color: #fff; }
+.oi-mdc-red .oi-mdc-a200 a, .oi-mdc-red.oi-mdc-a200 a { color: #fff; }
+.oi-mdc-red .oi-mdc-a200-color, .oi-mdc-red.oi-mdc-a200-color { color: #ff5252; }
+.oi-mdc-red .oi-mdc-800, .oi-mdc-red.oi-mdc-800 { fill: #fff; background-color: #c62828; color: #fff; }
+.oi-mdc-red .oi-mdc-800 a, .oi-mdc-red.oi-mdc-800 a { color: #fff; }
+.oi-mdc-red .oi-mdc-800-color, .oi-mdc-red.oi-mdc-800-color { color: #c62828; }
+.oi-mdc-red .oi-mdc-400, .oi-mdc-red.oi-mdc-400 { fill: #fff; background-color: #ef5350; color: #fff; }
+.oi-mdc-red .oi-mdc-400 a, .oi-mdc-red.oi-mdc-400 a { color: #fff; }
+.oi-mdc-red .oi-mdc-400-color, .oi-mdc-red.oi-mdc-400-color { color: #ef5350; }
+.oi-mdc-light-green .oi-mdc-800, .oi-mdc-light-green.oi-mdc-800 { fill: #fff; background-color: #558b2f; color: #fff; }
+.oi-mdc-light-green .oi-mdc-800 a, .oi-mdc-light-green.oi-mdc-800 a { color: #fff; }
+.oi-mdc-light-green .oi-mdc-800-color, .oi-mdc-light-green.oi-mdc-800-color { color: #558b2f; }
+.oi-mdc-light-green .oi-mdc-a200, .oi-mdc-light-green.oi-mdc-a200 { color: #000; background-color: #b2ff59; fill: #000; }
+.oi-mdc-light-green .oi-mdc-a200 a, .oi-mdc-light-green.oi-mdc-a200 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-a200-color, .oi-mdc-light-green.oi-mdc-a200-color { color: #b2ff59; }
+.oi-mdc-light-green .oi-mdc-500, .oi-mdc-light-green.oi-mdc-500 { background-color: #8bc34a; color: #000; fill: #000; }
+.oi-mdc-light-green .oi-mdc-500 a, .oi-mdc-light-green.oi-mdc-500 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-500-color, .oi-mdc-light-green.oi-mdc-500-color { color: #8bc34a; }
+.oi-mdc-light-green .oi-mdc-900, .oi-mdc-light-green.oi-mdc-900 { fill: #fff; background-color: #33691e; color: #fff; }
+.oi-mdc-light-green .oi-mdc-900 a, .oi-mdc-light-green.oi-mdc-900 a { color: #fff; }
+.oi-mdc-light-green .oi-mdc-900-color, .oi-mdc-light-green.oi-mdc-900-color { color: #33691e; }
+.oi-mdc-light-green .oi-mdc-a700, .oi-mdc-light-green.oi-mdc-a700 { fill: #000; color: #000; background-color: #64dd17; }
+.oi-mdc-light-green .oi-mdc-a700 a, .oi-mdc-light-green.oi-mdc-a700 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-a700-color, .oi-mdc-light-green.oi-mdc-a700-color { color: #64dd17; }
+.oi-mdc-light-green .oi-mdc-50, .oi-mdc-light-green.oi-mdc-50 { fill: #000; color: #000; background-color: #f1f8e9; }
+.oi-mdc-light-green .oi-mdc-50 a, .oi-mdc-light-green.oi-mdc-50 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-50-color, .oi-mdc-light-green.oi-mdc-50-color { color: #f1f8e9; }
+.oi-mdc-light-green .oi-mdc-600, .oi-mdc-light-green.oi-mdc-600 { fill: #000; color: #000; background-color: #7cb342; }
+.oi-mdc-light-green .oi-mdc-600 a, .oi-mdc-light-green.oi-mdc-600 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-600-color, .oi-mdc-light-green.oi-mdc-600-color { color: #7cb342; }
+.oi-mdc-light-green .oi-mdc-300, .oi-mdc-light-green.oi-mdc-300 { background-color: #aed581; color: #000; fill: #000; }
+.oi-mdc-light-green .oi-mdc-300 a, .oi-mdc-light-green.oi-mdc-300 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-300-color, .oi-mdc-light-green.oi-mdc-300-color { color: #aed581; }
+.oi-mdc-light-green .oi-mdc-400, .oi-mdc-light-green.oi-mdc-400 { fill: #000; color: #000; background-color: #9ccc65; }
+.oi-mdc-light-green .oi-mdc-400 a, .oi-mdc-light-green.oi-mdc-400 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-400-color, .oi-mdc-light-green.oi-mdc-400-color { color: #9ccc65; }
+.oi-mdc-light-green .oi-mdc-a100, .oi-mdc-light-green.oi-mdc-a100 { background-color: #ccff90; color: #000; fill: #000; }
+.oi-mdc-light-green .oi-mdc-a100 a, .oi-mdc-light-green.oi-mdc-a100 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-a100-color, .oi-mdc-light-green.oi-mdc-a100-color { color: #ccff90; }
+.oi-mdc-light-green .oi-mdc-100, .oi-mdc-light-green.oi-mdc-100 { fill: #000; background-color: #dcedc8; color: #000; }
+.oi-mdc-light-green .oi-mdc-100 a, .oi-mdc-light-green.oi-mdc-100 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-100-color, .oi-mdc-light-green.oi-mdc-100-color { color: #dcedc8; }
+.oi-mdc-light-green .oi-mdc-200, .oi-mdc-light-green.oi-mdc-200 { fill: #000; color: #000; background-color: #c5e1a5; }
+.oi-mdc-light-green .oi-mdc-200 a, .oi-mdc-light-green.oi-mdc-200 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-200-color, .oi-mdc-light-green.oi-mdc-200-color { color: #c5e1a5; }
+.oi-mdc-light-green .oi-mdc-700, .oi-mdc-light-green.oi-mdc-700 { background-color: #689f38; color: #fff; fill: #fff; }
+.oi-mdc-light-green .oi-mdc-700 a, .oi-mdc-light-green.oi-mdc-700 a { color: #fff; }
+.oi-mdc-light-green .oi-mdc-700-color, .oi-mdc-light-green.oi-mdc-700-color { color: #689f38; }
+.oi-mdc-light-green .oi-mdc-a400, .oi-mdc-light-green.oi-mdc-a400 { color: #000; background-color: #76ff03; fill: #000; }
+.oi-mdc-light-green .oi-mdc-a400 a, .oi-mdc-light-green.oi-mdc-a400 a { color: #000; }
+.oi-mdc-light-green .oi-mdc-a400-color, .oi-mdc-light-green.oi-mdc-a400-color { color: #76ff03; }
+.oi-mdc-blue .oi-mdc-700, .oi-mdc-blue.oi-mdc-700 { color: #fff; background-color: #1976d2; fill: #fff; }
+.oi-mdc-blue .oi-mdc-700 a, .oi-mdc-blue.oi-mdc-700 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-700-color, .oi-mdc-blue.oi-mdc-700-color { color: #1976d2; }
+.oi-mdc-blue .oi-mdc-200, .oi-mdc-blue.oi-mdc-200 { fill: #000; background-color: #90caf9; color: #000; }
+.oi-mdc-blue .oi-mdc-200 a, .oi-mdc-blue.oi-mdc-200 a { color: #000; }
+.oi-mdc-blue .oi-mdc-200-color, .oi-mdc-blue.oi-mdc-200-color { color: #90caf9; }
+.oi-mdc-blue .oi-mdc-a400, .oi-mdc-blue.oi-mdc-a400 { background-color: #2979ff; color: #fff; fill: #fff; }
+.oi-mdc-blue .oi-mdc-a400 a, .oi-mdc-blue.oi-mdc-a400 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-a400-color, .oi-mdc-blue.oi-mdc-a400-color { color: #2979ff; }
+.oi-mdc-blue .oi-mdc-100, .oi-mdc-blue.oi-mdc-100 { fill: #000; background-color: #bbdefb; color: #000; }
+.oi-mdc-blue .oi-mdc-100 a, .oi-mdc-blue.oi-mdc-100 a { color: #000; }
+.oi-mdc-blue .oi-mdc-100-color, .oi-mdc-blue.oi-mdc-100-color { color: #bbdefb; }
+.oi-mdc-blue .oi-mdc-a100, .oi-mdc-blue.oi-mdc-a100 { fill: #000; color: #000; background-color: #82b1ff; }
+.oi-mdc-blue .oi-mdc-a100 a, .oi-mdc-blue.oi-mdc-a100 a { color: #000; }
+.oi-mdc-blue .oi-mdc-a100-color, .oi-mdc-blue.oi-mdc-a100-color { color: #82b1ff; }
+.oi-mdc-blue .oi-mdc-400, .oi-mdc-blue.oi-mdc-400 { fill: #000; color: #000; background-color: #42a5f5; }
+.oi-mdc-blue .oi-mdc-400 a, .oi-mdc-blue.oi-mdc-400 a { color: #000; }
+.oi-mdc-blue .oi-mdc-400-color, .oi-mdc-blue.oi-mdc-400-color { color: #42a5f5; }
+.oi-mdc-blue .oi-mdc-a700, .oi-mdc-blue.oi-mdc-a700 { color: #fff; background-color: #2962ff; fill: #fff; }
+.oi-mdc-blue .oi-mdc-a700 a, .oi-mdc-blue.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-a700-color, .oi-mdc-blue.oi-mdc-a700-color { color: #2962ff; }
+.oi-mdc-blue .oi-mdc-50, .oi-mdc-blue.oi-mdc-50 { fill: #000; background-color: #e3f2fd; color: #000; }
+.oi-mdc-blue .oi-mdc-50 a, .oi-mdc-blue.oi-mdc-50 a { color: #000; }
+.oi-mdc-blue .oi-mdc-50-color, .oi-mdc-blue.oi-mdc-50-color { color: #e3f2fd; }
+.oi-mdc-blue .oi-mdc-300, .oi-mdc-blue.oi-mdc-300 { background-color: #64b5f6; color: #000; fill: #000; }
+.oi-mdc-blue .oi-mdc-300 a, .oi-mdc-blue.oi-mdc-300 a { color: #000; }
+.oi-mdc-blue .oi-mdc-300-color, .oi-mdc-blue.oi-mdc-300-color { color: #64b5f6; }
+.oi-mdc-blue .oi-mdc-600, .oi-mdc-blue.oi-mdc-600 { fill: #fff; color: #fff; background-color: #1e88e5; }
+.oi-mdc-blue .oi-mdc-600 a, .oi-mdc-blue.oi-mdc-600 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-600-color, .oi-mdc-blue.oi-mdc-600-color { color: #1e88e5; }
+.oi-mdc-blue .oi-mdc-a200, .oi-mdc-blue.oi-mdc-a200 { color: #fff; background-color: #448aff; fill: #fff; }
+.oi-mdc-blue .oi-mdc-a200 a, .oi-mdc-blue.oi-mdc-a200 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-a200-color, .oi-mdc-blue.oi-mdc-a200-color { color: #448aff; }
+.oi-mdc-blue .oi-mdc-800, .oi-mdc-blue.oi-mdc-800 { background-color: #1565c0; color: #fff; fill: #fff; }
+.oi-mdc-blue .oi-mdc-800 a, .oi-mdc-blue.oi-mdc-800 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-800-color, .oi-mdc-blue.oi-mdc-800-color { color: #1565c0; }
+.oi-mdc-blue .oi-mdc-500, .oi-mdc-blue.oi-mdc-500 { fill: #fff; color: #fff; background-color: #2196f3; }
+.oi-mdc-blue .oi-mdc-500 a, .oi-mdc-blue.oi-mdc-500 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-500-color, .oi-mdc-blue.oi-mdc-500-color { color: #2196f3; }
+.oi-mdc-blue .oi-mdc-900, .oi-mdc-blue.oi-mdc-900 { fill: #fff; color: #fff; background-color: #0d47a1; }
+.oi-mdc-blue .oi-mdc-900 a, .oi-mdc-blue.oi-mdc-900 a { color: #fff; }
+.oi-mdc-blue .oi-mdc-900-color, .oi-mdc-blue.oi-mdc-900-color { color: #0d47a1; }
+.oi-mdc-brown .oi-mdc-200, .oi-mdc-brown.oi-mdc-200 { background-color: #bcaaa4; color: #000; fill: #000; }
+.oi-mdc-brown .oi-mdc-200 a, .oi-mdc-brown.oi-mdc-200 a { color: #000; }
+.oi-mdc-brown .oi-mdc-200-color, .oi-mdc-brown.oi-mdc-200-color { color: #bcaaa4; }
+.oi-mdc-brown .oi-mdc-700, .oi-mdc-brown.oi-mdc-700 { fill: #fff; background-color: #5d4037; color: #fff; }
+.oi-mdc-brown .oi-mdc-700 a, .oi-mdc-brown.oi-mdc-700 a { color: #fff; }
+.oi-mdc-brown .oi-mdc-700-color, .oi-mdc-brown.oi-mdc-700-color { color: #5d4037; }
+.oi-mdc-brown .oi-mdc-100, .oi-mdc-brown.oi-mdc-100 { fill: #000; background-color: #d7ccc8; color: #000; }
+.oi-mdc-brown .oi-mdc-100 a, .oi-mdc-brown.oi-mdc-100 a { color: #000; }
+.oi-mdc-brown .oi-mdc-100-color, .oi-mdc-brown.oi-mdc-100-color { color: #d7ccc8; }
+.oi-mdc-brown .oi-mdc-400, .oi-mdc-brown.oi-mdc-400 { fill: #fff; background-color: #8d6e63; color: #fff; }
+.oi-mdc-brown .oi-mdc-400 a, .oi-mdc-brown.oi-mdc-400 a { color: #fff; }
+.oi-mdc-brown .oi-mdc-400-color, .oi-mdc-brown.oi-mdc-400-color { color: #8d6e63; }
+.oi-mdc-brown .oi-mdc-600, .oi-mdc-brown.oi-mdc-600 { fill: #fff; color: #fff; background-color: #6d4c41; }
+.oi-mdc-brown .oi-mdc-600 a, .oi-mdc-brown.oi-mdc-600 a { color: #fff; }
+.oi-mdc-brown .oi-mdc-600-color, .oi-mdc-brown.oi-mdc-600-color { color: #6d4c41; }
+.oi-mdc-brown .oi-mdc-300, .oi-mdc-brown.oi-mdc-300 { fill: #fff; color: #fff; background-color: #a1887f; }
+.oi-mdc-brown .oi-mdc-300 a, .oi-mdc-brown.oi-mdc-300 a { color: #fff; }
+.oi-mdc-brown .oi-mdc-300-color, .oi-mdc-brown.oi-mdc-300-color { color: #a1887f; }
+.oi-mdc-brown .oi-mdc-50, .oi-mdc-brown.oi-mdc-50 { background-color: #efebe9; color: #000; fill: #000; }
+.oi-mdc-brown .oi-mdc-50 a, .oi-mdc-brown.oi-mdc-50 a { color: #000; }
+.oi-mdc-brown .oi-mdc-50-color, .oi-mdc-brown.oi-mdc-50-color { color: #efebe9; }
+.oi-mdc-brown .oi-mdc-900, .oi-mdc-brown.oi-mdc-900 { color: #fff; background-color: #3e2723; fill: #fff; }
+.oi-mdc-brown .oi-mdc-900 a, .oi-mdc-brown.oi-mdc-900 a { color: #fff; }
+.oi-mdc-brown .oi-mdc-900-color, .oi-mdc-brown.oi-mdc-900-color { color: #3e2723; }
+.oi-mdc-brown .oi-mdc-500, .oi-mdc-brown.oi-mdc-500 { fill: #fff; background-color: #795548; color: #fff; }
+.oi-mdc-brown .oi-mdc-500 a, .oi-mdc-brown.oi-mdc-500 a { color: #fff; }
+.oi-mdc-brown .oi-mdc-500-color, .oi-mdc-brown.oi-mdc-500-color { color: #795548; }
+.oi-mdc-brown .oi-mdc-800, .oi-mdc-brown.oi-mdc-800 { background-color: #4e342e; color: #fff; fill: #fff; }
+.oi-mdc-brown .oi-mdc-800 a, .oi-mdc-brown.oi-mdc-800 a { color: #fff; }
+.oi-mdc-brown .oi-mdc-800-color, .oi-mdc-brown.oi-mdc-800-color { color: #4e342e; }
+.oi-mdc-light-blue .oi-mdc-a200, .oi-mdc-light-blue.oi-mdc-a200 { fill: #000; background-color: #40c4ff; color: #000; }
+.oi-mdc-light-blue .oi-mdc-a200 a, .oi-mdc-light-blue.oi-mdc-a200 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-a200-color, .oi-mdc-light-blue.oi-mdc-a200-color { color: #40c4ff; }
+.oi-mdc-light-blue .oi-mdc-500, .oi-mdc-light-blue.oi-mdc-500 { color: #000; background-color: #03a9f4; fill: #000; }
+.oi-mdc-light-blue .oi-mdc-500 a, .oi-mdc-light-blue.oi-mdc-500 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-500-color, .oi-mdc-light-blue.oi-mdc-500-color { color: #03a9f4; }
+.oi-mdc-light-blue .oi-mdc-800, .oi-mdc-light-blue.oi-mdc-800 { fill: #fff; background-color: #0277bd; color: #fff; }
+.oi-mdc-light-blue .oi-mdc-800 a, .oi-mdc-light-blue.oi-mdc-800 a { color: #fff; }
+.oi-mdc-light-blue .oi-mdc-800-color, .oi-mdc-light-blue.oi-mdc-800-color { color: #0277bd; }
+.oi-mdc-light-blue .oi-mdc-900, .oi-mdc-light-blue.oi-mdc-900 { fill: #fff; color: #fff; background-color: #01579b; }
+.oi-mdc-light-blue .oi-mdc-900 a, .oi-mdc-light-blue.oi-mdc-900 a { color: #fff; }
+.oi-mdc-light-blue .oi-mdc-900-color, .oi-mdc-light-blue.oi-mdc-900-color { color: #01579b; }
+.oi-mdc-light-blue .oi-mdc-50, .oi-mdc-light-blue.oi-mdc-50 { fill: #000; color: #000; background-color: #e1f5fe; }
+.oi-mdc-light-blue .oi-mdc-50 a, .oi-mdc-light-blue.oi-mdc-50 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-50-color, .oi-mdc-light-blue.oi-mdc-50-color { color: #e1f5fe; }
+.oi-mdc-light-blue .oi-mdc-a700, .oi-mdc-light-blue.oi-mdc-a700 { color: #fff; background-color: #0091ea; fill: #fff; }
+.oi-mdc-light-blue .oi-mdc-a700 a, .oi-mdc-light-blue.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-light-blue .oi-mdc-a700-color, .oi-mdc-light-blue.oi-mdc-a700-color { color: #0091ea; }
+.oi-mdc-light-blue .oi-mdc-600, .oi-mdc-light-blue.oi-mdc-600 { background-color: #039be5; color: #fff; fill: #fff; }
+.oi-mdc-light-blue .oi-mdc-600 a, .oi-mdc-light-blue.oi-mdc-600 a { color: #fff; }
+.oi-mdc-light-blue .oi-mdc-600-color, .oi-mdc-light-blue.oi-mdc-600-color { color: #039be5; }
+.oi-mdc-light-blue .oi-mdc-300, .oi-mdc-light-blue.oi-mdc-300 { color: #000; background-color: #4fc3f7; fill: #000; }
+.oi-mdc-light-blue .oi-mdc-300 a, .oi-mdc-light-blue.oi-mdc-300 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-300-color, .oi-mdc-light-blue.oi-mdc-300-color { color: #4fc3f7; }
+.oi-mdc-light-blue .oi-mdc-400, .oi-mdc-light-blue.oi-mdc-400 { fill: #000; background-color: #29b6f6; color: #000; }
+.oi-mdc-light-blue .oi-mdc-400 a, .oi-mdc-light-blue.oi-mdc-400 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-400-color, .oi-mdc-light-blue.oi-mdc-400-color { color: #29b6f6; }
+.oi-mdc-light-blue .oi-mdc-a100, .oi-mdc-light-blue.oi-mdc-a100 { fill: #000; color: #000; background-color: #80d8ff; }
+.oi-mdc-light-blue .oi-mdc-a100 a, .oi-mdc-light-blue.oi-mdc-a100 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-a100-color, .oi-mdc-light-blue.oi-mdc-a100-color { color: #80d8ff; }
+.oi-mdc-light-blue .oi-mdc-100, .oi-mdc-light-blue.oi-mdc-100 { fill: #000; background-color: #b3e5fc; color: #000; }
+.oi-mdc-light-blue .oi-mdc-100 a, .oi-mdc-light-blue.oi-mdc-100 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-100-color, .oi-mdc-light-blue.oi-mdc-100-color { color: #b3e5fc; }
+.oi-mdc-light-blue .oi-mdc-200, .oi-mdc-light-blue.oi-mdc-200 { background-color: #81d4fa; color: #000; fill: #000; }
+.oi-mdc-light-blue .oi-mdc-200 a, .oi-mdc-light-blue.oi-mdc-200 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-200-color, .oi-mdc-light-blue.oi-mdc-200-color { color: #81d4fa; }
+.oi-mdc-light-blue .oi-mdc-700, .oi-mdc-light-blue.oi-mdc-700 { fill: #fff; color: #fff; background-color: #0288d1; }
+.oi-mdc-light-blue .oi-mdc-700 a, .oi-mdc-light-blue.oi-mdc-700 a { color: #fff; }
+.oi-mdc-light-blue .oi-mdc-700-color, .oi-mdc-light-blue.oi-mdc-700-color { color: #0288d1; }
+.oi-mdc-light-blue .oi-mdc-a400, .oi-mdc-light-blue.oi-mdc-a400 { fill: #000; color: #000; background-color: #00b0ff; }
+.oi-mdc-light-blue .oi-mdc-a400 a, .oi-mdc-light-blue.oi-mdc-a400 a { color: #000; }
+.oi-mdc-light-blue .oi-mdc-a400-color, .oi-mdc-light-blue.oi-mdc-a400-color { color: #00b0ff; }
+.oi-mdc-deep-orange .oi-mdc-900, .oi-mdc-deep-orange.oi-mdc-900 { fill: #fff; background-color: #bf360c; color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-900 a, .oi-mdc-deep-orange.oi-mdc-900 a { color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-900-color, .oi-mdc-deep-orange.oi-mdc-900-color { color: #bf360c; }
+.oi-mdc-deep-orange .oi-mdc-a200, .oi-mdc-deep-orange.oi-mdc-a200 { background-color: #ff6e40; color: #000; fill: #000; }
+.oi-mdc-deep-orange .oi-mdc-a200 a, .oi-mdc-deep-orange.oi-mdc-a200 a { color: #000; }
+.oi-mdc-deep-orange .oi-mdc-a200-color, .oi-mdc-deep-orange.oi-mdc-a200-color { color: #ff6e40; }
+.oi-mdc-deep-orange .oi-mdc-800, .oi-mdc-deep-orange.oi-mdc-800 { background-color: #d84315; color: #fff; fill: #fff; }
+.oi-mdc-deep-orange .oi-mdc-800 a, .oi-mdc-deep-orange.oi-mdc-800 a { color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-800-color, .oi-mdc-deep-orange.oi-mdc-800-color { color: #d84315; }
+.oi-mdc-deep-orange .oi-mdc-500, .oi-mdc-deep-orange.oi-mdc-500 { fill: #fff; color: #fff; background-color: #ff5722; }
+.oi-mdc-deep-orange .oi-mdc-500 a, .oi-mdc-deep-orange.oi-mdc-500 a { color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-500-color, .oi-mdc-deep-orange.oi-mdc-500-color { color: #ff5722; }
+.oi-mdc-deep-orange .oi-mdc-300, .oi-mdc-deep-orange.oi-mdc-300 { background-color: #ff8a65; color: #000; fill: #000; }
+.oi-mdc-deep-orange .oi-mdc-300 a, .oi-mdc-deep-orange.oi-mdc-300 a { color: #000; }
+.oi-mdc-deep-orange .oi-mdc-300-color, .oi-mdc-deep-orange.oi-mdc-300-color { color: #ff8a65; }
+.oi-mdc-deep-orange .oi-mdc-600, .oi-mdc-deep-orange.oi-mdc-600 { fill: #fff; color: #fff; background-color: #f4511e; }
+.oi-mdc-deep-orange .oi-mdc-600 a, .oi-mdc-deep-orange.oi-mdc-600 a { color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-600-color, .oi-mdc-deep-orange.oi-mdc-600-color { color: #f4511e; }
+.oi-mdc-deep-orange .oi-mdc-a700, .oi-mdc-deep-orange.oi-mdc-a700 { fill: #fff; color: #fff; background-color: #dd2c00; }
+.oi-mdc-deep-orange .oi-mdc-a700 a, .oi-mdc-deep-orange.oi-mdc-a700 a { color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-a700-color, .oi-mdc-deep-orange.oi-mdc-a700-color { color: #dd2c00; }
+.oi-mdc-deep-orange .oi-mdc-50, .oi-mdc-deep-orange.oi-mdc-50 { fill: #000; background-color: #fbe9e7; color: #000; }
+.oi-mdc-deep-orange .oi-mdc-50 a, .oi-mdc-deep-orange.oi-mdc-50 a { color: #000; }
+.oi-mdc-deep-orange .oi-mdc-50-color, .oi-mdc-deep-orange.oi-mdc-50-color { color: #fbe9e7; }
+.oi-mdc-deep-orange .oi-mdc-400, .oi-mdc-deep-orange.oi-mdc-400 { color: #000; background-color: #ff7043; fill: #000; }
+.oi-mdc-deep-orange .oi-mdc-400 a, .oi-mdc-deep-orange.oi-mdc-400 a { color: #000; }
+.oi-mdc-deep-orange .oi-mdc-400-color, .oi-mdc-deep-orange.oi-mdc-400-color { color: #ff7043; }
+.oi-mdc-deep-orange .oi-mdc-a100, .oi-mdc-deep-orange.oi-mdc-a100 { fill: #000; background-color: #ff9e80; color: #000; }
+.oi-mdc-deep-orange .oi-mdc-a100 a, .oi-mdc-deep-orange.oi-mdc-a100 a { color: #000; }
+.oi-mdc-deep-orange .oi-mdc-a100-color, .oi-mdc-deep-orange.oi-mdc-a100-color { color: #ff9e80; }
+.oi-mdc-deep-orange .oi-mdc-100, .oi-mdc-deep-orange.oi-mdc-100 { color: #000; background-color: #ffccbc; fill: #000; }
+.oi-mdc-deep-orange .oi-mdc-100 a, .oi-mdc-deep-orange.oi-mdc-100 a { color: #000; }
+.oi-mdc-deep-orange .oi-mdc-100-color, .oi-mdc-deep-orange.oi-mdc-100-color { color: #ffccbc; }
+.oi-mdc-deep-orange .oi-mdc-a400, .oi-mdc-deep-orange.oi-mdc-a400 { fill: #fff; color: #fff; background-color: #ff3d00; }
+.oi-mdc-deep-orange .oi-mdc-a400 a, .oi-mdc-deep-orange.oi-mdc-a400 a { color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-a400-color, .oi-mdc-deep-orange.oi-mdc-a400-color { color: #ff3d00; }
+.oi-mdc-deep-orange .oi-mdc-200, .oi-mdc-deep-orange.oi-mdc-200 { color: #000; background-color: #ffab91; fill: #000; }
+.oi-mdc-deep-orange .oi-mdc-200 a, .oi-mdc-deep-orange.oi-mdc-200 a { color: #000; }
+.oi-mdc-deep-orange .oi-mdc-200-color, .oi-mdc-deep-orange.oi-mdc-200-color { color: #ffab91; }
+.oi-mdc-deep-orange .oi-mdc-700, .oi-mdc-deep-orange.oi-mdc-700 { fill: #fff; color: #fff; background-color: #e64a19; }
+.oi-mdc-deep-orange .oi-mdc-700 a, .oi-mdc-deep-orange.oi-mdc-700 a { color: #fff; }
+.oi-mdc-deep-orange .oi-mdc-700-color, .oi-mdc-deep-orange.oi-mdc-700-color { color: #e64a19; }
+.oi-mdc-lime .oi-mdc-a100, .oi-mdc-lime.oi-mdc-a100 { fill: #000; color: #000; background-color: #f4ff81; }
+.oi-mdc-lime .oi-mdc-a100 a, .oi-mdc-lime.oi-mdc-a100 a { color: #000; }
+.oi-mdc-lime .oi-mdc-a100-color, .oi-mdc-lime.oi-mdc-a100-color { color: #f4ff81; }
+.oi-mdc-lime .oi-mdc-100, .oi-mdc-lime.oi-mdc-100 { background-color: #f0f4c3; color: #000; fill: #000; }
+.oi-mdc-lime .oi-mdc-100 a, .oi-mdc-lime.oi-mdc-100 a { color: #000; }
+.oi-mdc-lime .oi-mdc-100-color, .oi-mdc-lime.oi-mdc-100-color { color: #f0f4c3; }
+.oi-mdc-lime .oi-mdc-200, .oi-mdc-lime.oi-mdc-200 { fill: #000; background-color: #e6ee9c; color: #000; }
+.oi-mdc-lime .oi-mdc-200 a, .oi-mdc-lime.oi-mdc-200 a { color: #000; }
+.oi-mdc-lime .oi-mdc-200-color, .oi-mdc-lime.oi-mdc-200-color { color: #e6ee9c; }
+.oi-mdc-lime .oi-mdc-700, .oi-mdc-lime.oi-mdc-700 { background-color: #afb42b; color: #000; fill: #000; }
+.oi-mdc-lime .oi-mdc-700 a, .oi-mdc-lime.oi-mdc-700 a { color: #000; }
+.oi-mdc-lime .oi-mdc-700-color, .oi-mdc-lime.oi-mdc-700-color { color: #afb42b; }
+.oi-mdc-lime .oi-mdc-a400, .oi-mdc-lime.oi-mdc-a400 { fill: #000; color: #000; background-color: #c6ff00; }
+.oi-mdc-lime .oi-mdc-a400 a, .oi-mdc-lime.oi-mdc-a400 a { color: #000; }
+.oi-mdc-lime .oi-mdc-a400-color, .oi-mdc-lime.oi-mdc-a400-color { color: #c6ff00; }
+.oi-mdc-lime .oi-mdc-a200, .oi-mdc-lime.oi-mdc-a200 { background-color: #eeff41; color: #000; fill: #000; }
+.oi-mdc-lime .oi-mdc-a200 a, .oi-mdc-lime.oi-mdc-a200 a { color: #000; }
+.oi-mdc-lime .oi-mdc-a200-color, .oi-mdc-lime.oi-mdc-a200-color { color: #eeff41; }
+.oi-mdc-lime .oi-mdc-500, .oi-mdc-lime.oi-mdc-500 { fill: #000; background-color: #cddc39; color: #000; }
+.oi-mdc-lime .oi-mdc-500 a, .oi-mdc-lime.oi-mdc-500 a { color: #000; }
+.oi-mdc-lime .oi-mdc-500-color, .oi-mdc-lime.oi-mdc-500-color { color: #cddc39; }
+.oi-mdc-lime .oi-mdc-800, .oi-mdc-lime.oi-mdc-800 { color: #000; background-color: #9e9d24; fill: #000; }
+.oi-mdc-lime .oi-mdc-800 a, .oi-mdc-lime.oi-mdc-800 a { color: #000; }
+.oi-mdc-lime .oi-mdc-800-color, .oi-mdc-lime.oi-mdc-800-color { color: #9e9d24; }
+.oi-mdc-lime .oi-mdc-900, .oi-mdc-lime.oi-mdc-900 { background-color: #827717; color: #fff; fill: #fff; }
+.oi-mdc-lime .oi-mdc-900 a, .oi-mdc-lime.oi-mdc-900 a { color: #fff; }
+.oi-mdc-lime .oi-mdc-900-color, .oi-mdc-lime.oi-mdc-900-color { color: #827717; }
+.oi-mdc-lime .oi-mdc-a700, .oi-mdc-lime.oi-mdc-a700 { color: #000; background-color: #aeea00; fill: #000; }
+.oi-mdc-lime .oi-mdc-a700 a, .oi-mdc-lime.oi-mdc-a700 a { color: #000; }
+.oi-mdc-lime .oi-mdc-a700-color, .oi-mdc-lime.oi-mdc-a700-color { color: #aeea00; }
+.oi-mdc-lime .oi-mdc-50, .oi-mdc-lime.oi-mdc-50 { background-color: #f9fbe7; color: #000; fill: #000; }
+.oi-mdc-lime .oi-mdc-50 a, .oi-mdc-lime.oi-mdc-50 a { color: #000; }
+.oi-mdc-lime .oi-mdc-50-color, .oi-mdc-lime.oi-mdc-50-color { color: #f9fbe7; }
+.oi-mdc-lime .oi-mdc-600, .oi-mdc-lime.oi-mdc-600 { background-color: #c0ca33; color: #000; fill: #000; }
+.oi-mdc-lime .oi-mdc-600 a, .oi-mdc-lime.oi-mdc-600 a { color: #000; }
+.oi-mdc-lime .oi-mdc-600-color, .oi-mdc-lime.oi-mdc-600-color { color: #c0ca33; }
+.oi-mdc-lime .oi-mdc-300, .oi-mdc-lime.oi-mdc-300 { fill: #000; background-color: #dce775; color: #000; }
+.oi-mdc-lime .oi-mdc-300 a, .oi-mdc-lime.oi-mdc-300 a { color: #000; }
+.oi-mdc-lime .oi-mdc-300-color, .oi-mdc-lime.oi-mdc-300-color { color: #dce775; }
+.oi-mdc-lime .oi-mdc-400, .oi-mdc-lime.oi-mdc-400 { background-color: #d4e157; color: #000; fill: #000; }
+.oi-mdc-lime .oi-mdc-400 a, .oi-mdc-lime.oi-mdc-400 a { color: #000; }
+.oi-mdc-lime .oi-mdc-400-color, .oi-mdc-lime.oi-mdc-400-color { color: #d4e157; }

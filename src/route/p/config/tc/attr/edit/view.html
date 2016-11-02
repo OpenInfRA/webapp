@@ -1,0 +1,80 @@
+<div class="oi-ui-page">
+
+<div class="oi-form oi-project-config-topchar-editAttr">
+  <div class="oi-form-silk" ng-show="busy"></div>
+
+  <div class="oi-form-head">
+    <button type="submit" class="" ng-click="addGroup()" disabled>+ Gruppe</button>
+    <h3>Attribute bearbeiten</h3>
+  </div>
+
+  <div class="oi-form-group" ng-class="{ 'oi-dirty' : ag.$dirty,
+      'oi-deleted'   :  ag.configuration.deleted, 
+      'oi-hidden'    :  ag.configuration.hidden
+    }" ng-repeat="ag in temp.data.attributeGroups">
+
+    <div class="oi-form-attribute head">
+      <div class="oi-label-localized">
+        <div style="font-weight: bold;" oi-localize="ag.data.attributeTypeGroup.name"></div>
+      </div>
+      <div class="oi-form-value">
+        <dl> 
+          <dt>Beschreibung</dt>
+          <dd oi-localize="ag.data.attributeTypeGroup.description"></dd>
+        </dl>
+        <div oi-schema-attr-group-temp="ag" oi-view="viewModel"></div>
+        <div oi-schema-attr-group-temp="ag" oi-view="viewType"></div>
+      </div>
+
+      <div class="oi-project-config-topchar-editAttr-actions" ng-show="ag.configuration.deleted">
+        <button type="submit" ng-click="undelGroup(ag)">reaktivieren</button>
+      </div>
+      <div class="oi-project-config-topchar-editAttr-actions" ng-show="!ag.configuration.deleted && ag.configuration.hidden">
+        <button type="submit" ng-click="delGroup(ag)" ng-disabled="ag.data.attributes.length">loeschen</button>
+        <button type="submit" ng-click="showGroup(ag)">anzeigen</button>
+      </div>
+      <div class="oi-project-config-topchar-editAttr-actions" ng-hide="ag.configuration.hidden">
+        <button disabled type="submit" class="" ng-click="addAttr(ag)">+ Attribut</button>
+        <button type="submit" ng-click="hideGroup(ag)">ausblenden</button>
+        <button type="submit" ng-click="editGroup(ag)" ng-hide="at.definition.configuration.unconfigurable">bearbeiten</button>
+      </div>
+    </div>
+
+    <div class="oi-form-attribute" ng-class="{ 'oi-dirty' : at.$dirty, 
+      'oi-deleted'   :  at.configuration.deleted, 
+      'oi-hidden'    :  at.configuration.hidden,
+      'oi-visible'   : !at.configuration.hidden,
+      'oi-editable'  : !at.configuration.uneditable, 
+      }" ng-repeat="at in ag.data.attributes">
+
+      <div class="oi-label-localized">
+        <div oi-localize="at.data.attributeType.name"></div>
+      </div>
+      <div class="oi-form-value">
+        <div oi-schema-attribute-temp="at" oi-view="viewModel"></div>
+        <div oi-schema-attribute-temp="at" oi-view="viewType"></div>
+      </div>
+
+      <div class="oi-project-config-topchar-editAttr-actions" ng-show="at.configuration.deleted">
+        <button type="submit" ng-click="undelAttr(at)">reaktivieren</button>
+      </div>
+      <div class="oi-project-config-topchar-editAttr-actions" ng-show="!at.configuration.deleted && at.configuration.hidden">
+        <button type="submit" ng-click="delAttr(at)">loeschen</button>
+        <button type="submit" ng-click="showAttr(at)">anzeigen</button>
+      </div>
+      <div class="oi-project-config-topchar-editAttr-actions" ng-hide="at.configuration.hidden">
+        <button type="submit" ng-click="hideAttr(at)">ausblenden</button>
+        <button type="submit" ng-click="editAttr(at)" ng-hide="at.definition.configuration.unconfigurable">bearbeiten</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="oi-progress" ng-show="busy"></div> <!-- ui prototype -->
+
+  <div class="oi-form-buttons">
+    <button type="submit" class="btn btn-default" ng-click="abort()">abbrechen</button>
+    <button type="submit" class="btn btn-default" ng-click="submit()">speichern</button>
+  </div>
+</div>
+
+</div>

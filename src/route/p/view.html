@@ -1,0 +1,29 @@
+<div class="oi-mdc-indigo">
+  <div class="oi-projects-global oi-mdc-900 oi-ui-pane">
+    <div class="oi-ui-pane-context">
+      <h3><a ui-sref-active-eq="oi-ui-active oi-ui-hidden" ui-sref="project.home({ projectUUID : projectUUID })" oi-localize="names"></a></h3>
+    </div>
+  
+    <div class="oi-ui-pane-actions">
+      <form id="global_search" role="search">
+        <input ng-model="search_query" id="query" name="query" value="" type="text">
+        <button type="submit" translate=".search" ng-click="search_submit(search_query)"></button>
+      </form>
+    </div>
+  
+    <div class="oi-ui-pane-content">
+      <ul class="oi-project-menu">
+        <li ng-repeat="tc in oiProject.menu_tc">
+          <a ui-sref=".topchar({ topcharUUID : tc.uuid })" oi-localize="tc.topic.name"></a> 
+          <span class="count">{{tc.topicInstancesCount}}</span> 
+        </li>
+  
+        <li>
+          <a ui-sref=".config.home" translate=".config.home"></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  
+  <ui-view/>
+</div>

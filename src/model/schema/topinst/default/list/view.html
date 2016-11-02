@@ -1,0 +1,15 @@
+<div class="oi-list-bar oi-ui-progress-bar oi-ui-progress-active oi-ui-progress-loading" ng-show="listLoading"><div></div></div>
+
+<oi-list-pager count="listCount" page="listPage" size="listSize" ng-hide="!showPager"></oi-list-pager>
+
+<div style="position: relative;">
+  <div class="oi-form-silk" ng-show="listLoading"></div>
+
+  <ul>
+    <li ng-repeat="item in list">
+      <a ui-sref="project.topinst.view({ topinstUUID : item.uuid })">
+        <span class="oi-labels" ng-repeat="label in item.$labels" oi-localize="label"></span>
+       </a>
+    </li>
+  </ul>
+</div>

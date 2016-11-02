@@ -1,0 +1,36 @@
+<div class="oi-ui-page">
+  <div class="oi-ui-page-content">
+<!--
+    <div class="oi-ui-page-content-actions">
+      <button class="oi-mdc-a200" ui-sref="^.edit">bearbeiten</button>
+    </div>
+-->
+
+    <div class="oi-topinst-fotos oi-ui-page-content-media oi-mdc-50" ng-repeat="rel in relMedia">
+      <div oi-schema-top-inst-list="rel" oi-view="media"></div>
+    </div>
+
+    <div oi-schema-top-inst-data="$data" oi-view="groups"></div>
+  </div>
+</div>
+
+<div class="oi-ui-page" ng-if="relChildren.length">
+  <div class="oi-ui-page-content">
+    <div class="oi-topinst-rel" ng-repeat="rel in relChildren">
+      <h5><span oi-localize="rel.relation.label.name"></span> <span oi-localize="rel.topchar.loaded.data.topic.name"></span> ({{ rel.count }})</h5>
+      <div oi-schema-top-inst-list="rel"></div>
+      <div ng-if="rel.count > rel.size" class="oi-topinst-rel-all"><a ui-sref="^.topchar({ topcharUUID : rel.topchar.uuid})">alle anzeigen</a></div>
+    </div>
+  </div>
+</div>
+
+<div class="oi-ui-page" ng-if="relReferences.length">
+  <div class="oi-ui-page-content">
+    <div class="oi-topinst-rel" ng-repeat="rel in relReferences">
+      <h5><span oi-localize="rel.relation.label.name"></span> <span oi-localize="rel.topchar.loaded.data.topic.name"></span> ({{ rel.count }})</h5>
+      <div oi-schema-top-inst-list="rel"></div>
+      <div ng-if="rel.count > rel.size" class="oi-topinst-rel-all"><a ui-sref="^.topchar({ topcharUUID : rel.topchar.uuid})">alle anzeigen</a></div>
+    </div>
+  </div>
+</div>
+

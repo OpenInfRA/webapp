@@ -1,0 +1,25 @@
+
+
+<div class="oi-mdc-500 oi-ui-pane">
+  <div class="oi-ui-pane-object">
+<!--
+    <div class="oi-ui-pane-object-actions">
+      <button>anlegen</button>
+    </div>
+-->
+
+    <h1 translate=".home"></h1>
+  </div>
+</div>
+
+<div class="oi-ui-page">
+  <div class="oi-ui-page-content">
+    <ul>
+      <li ng-repeat="tc in topchars">
+        <a ui-sref="^.topchar.home({ topcharUUID : tc.uuid })" oi-localize="tc.topic.name"></a>
+        <span class="oi-conf-list-count">{{ tc.topicInstancesCount }}</span><br/>
+      </li>
+    </ul>
+  </div>
+</div>
+

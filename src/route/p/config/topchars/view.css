@@ -1,0 +1,12 @@
+li span.oi-conf-list-count {
+  color: #337ab7;
+  background: #fff;
+
+  padding: 0.05em 0.25em;
+  border-radius: 0.25em;
+}
+
+li.active span.oi-conf-list-count {
+  color: #fff;
+  background : #337ab7;
+}

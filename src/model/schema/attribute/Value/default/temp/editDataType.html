@@ -1,0 +1,13 @@
+<div ng-if="$temp.definition.hasUnit" class="oi-form-group">
+
+  <div class="oi-form-attribute" ng-controller="oiModelSchemaAttributeUnitCtrl">
+    <label for="unit">Einheit</label>
+    <div class="oi-form-value">
+      <select ng-disabled="unit.loading" ng-model="unit.value" ng-change="unit.changed()"> 
+        <option value="">-- ohne --</option>
+        <option value="{{ u.uuid }}" ng-repeat="u in unit.options" oi-localize="u.name"></option>
+      </select>
+    </div>
+  </div>
+
+</div>

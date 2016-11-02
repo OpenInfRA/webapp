@@ -1,0 +1,4 @@
+<select ng-change="locales.set()" ng-model="locales.locale">
+  <option ng-repeat="loc in locales.locales" value="{{ loc.code }}" ng-selected="loc.code === locales.locale">{{ loc.label }}</option>
+  <option ng-if="all" value="">-- alle anzeigen --</option>
+</select>

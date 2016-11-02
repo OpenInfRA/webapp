@@ -1,0 +1,13 @@
+<div class="oi-ui-pane oi-backend-pane">
+  <div class="oi-ui-pane-context">
+    <h3><a ui-sref="home">OpenInfRa</a></h3>
+    <span class="oi-backend-version">{{ model.version }}</span>
+  </div>
+  <div class="oi-ui-pane-actions">
+    <ng-include src="'.TPL/locale/locale.html'"></ng-include>
+    <ng-include src="'.TPL/user/user.html'"></ng-include>
+  </div>
+  <div class="oi-ui-pane-content">
+    <ng-include src="'.TPL/menu/menu.html'"></ng-include>
+  </div>
+</div>

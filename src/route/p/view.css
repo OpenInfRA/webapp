@@ -1,0 +1,59 @@
+div.oi-projects-global {
+}
+
+div.oi-projects-global h1 {
+  display: inline-block;
+}
+
+ul.oi-project-menu {
+  display: inline-block;
+
+  margin: 0; padding: 0;
+  list-style: none;
+}
+
+ul.oi-project-menu li {
+  display: inline-block;
+  margin-right: 1em;
+}
+
+ul.oi-project-menu li span.count {
+  display: inline-block;
+  padding: 0 0.15em;
+
+  font-weight: 700;
+}
+
+.oi-project-home-descr {
+  margin: 2em 0;
+  max-width: 40em;
+}
+
+ul.oi-topchars {
+  list-style: none;
+  padding: 0;
+  margin: 2em 0;
+}
+
+ul.oi-topchars > li {
+  display: inline-block;
+  padding: 1ex 1em;
+  margin: 1ex;
+
+  background: #eee;
+}
+
+ul.oi-topchars > li.hilight {
+  background: #333;
+}
+
+ul.oi-topchars > li.hilight a {
+  color: #fff;
+}
+
+ul.oi-topchars span.count {
+  color: #fff;
+  background-color: #337AB7;
+  padding: 0.25em 0.5em;
+  border-radius: 0.1em;
+}
